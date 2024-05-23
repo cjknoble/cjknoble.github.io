@@ -1,4 +1,4 @@
-[RETURN HOME](./)
+[RETURN HOME](https://cjknoble.github.io/)
 
 ### Presentations
 
