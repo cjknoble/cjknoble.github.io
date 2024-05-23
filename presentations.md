@@ -1,4 +1,4 @@
-[RETURN HOME](./README.html)
+[RETURN HOME](./)
 
 ### Presentations
 
