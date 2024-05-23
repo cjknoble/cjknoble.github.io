@@ -1,6 +1,6 @@
 # CJ, the EJ Guy
 
-#[Presentations](./presentations.html)
+[Presentations](./presentations.html)
 
 #### Technical Skills: GIS, R, Python, Salesforce
 #### Research Interests: Environmental Justice, Environmental Policy, Big Data, Critical GIS
