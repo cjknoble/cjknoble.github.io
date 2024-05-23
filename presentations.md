@@ -1,3 +1,3 @@
-[HOME](./README)
+[HOME](./README.html)
 
 ### Presentations 
