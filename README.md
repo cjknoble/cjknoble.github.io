@@ -1,6 +1,6 @@
 # CJ, the EJ Guy
 
-[Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html)
+[Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html)
 
 #### Technical Skills: GIS, R, Python, Salesforce
 #### Research Interests: Environmental Justice, Environmental Policy, Big Data, Critical GIS
