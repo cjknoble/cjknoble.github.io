@@ -14,7 +14,7 @@
 - **Skills and Deliverables:** QGIS, Machine Learning Tools, Semi-Automatic Classification Plugin
 
 ### GIS Training for Data Analysis Team
-![Presentation](./assets/img/Virtual Presentation Photo #2.png)
+![Presentation](./assets/img/Virtual Presentation Photo 2.png)
 - **Description:** A nonprofit organization sought to introduce GIS to their 20-person data analysis team, most of whom had limited GIS experience. Over two separate 1-hour sessions, I provided a general introduction to GIS and a tutorial on conducting spatial analyses using PowerPoint, PollEverywhere, and ArcGIS Pro, tailored to the organization's specific workflows and goals. By the end, the team was proficient in cleaning datasets, conducting Joins, and utilizing geoprocessing tools for cartographic overlays.
 - **Skills and Deliverables:** ArcGIS Pro, Training, Spatial Analysis
 
@@ -25,7 +25,7 @@
 - **Skills and Deliverables:** Site Assessment, Geospatial Analysis, Overlay
 
 ### Interactive Map - Visualizing Income in Northern New Jersey
-![Income](./assets/img/Online Map #5.png)
+![Income](./assets/img/Online Map 5.png)
 - **Description:** The goal of this project was to create an interactive map showing the relative household income across Northern New Jersey. I was responsible for locating the Census data, pre-processing the CSV, and joining the results with TIGER/Line shapefiles. Income data were drawn from the American Community Survey's 2019 estimate at the Census Block Group level. This resolution provided a detailed, interactive map that could be explored by the public through ArcGIS Online and ArcGIS programs.
 - **Skills and Deliverables:** ArcGIS Online, Data Cleaning, Cartography
 - **Link:** [Online Map](services9.arcgis.com/QHXEWAb0pE2rvfbb/arcgis/rest/services/Median_Income_Map__Online_/FeatureServer)
