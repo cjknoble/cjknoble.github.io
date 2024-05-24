@@ -28,7 +28,7 @@
 ![Income](./assets/img/Online Map 5.png)
 - **Description:** The goal of this project was to create an interactive map showing the relative household income across Northern New Jersey. I was responsible for locating the Census data, pre-processing the CSV, and joining the results with TIGER/Line shapefiles. Income data were drawn from the American Community Survey's 2019 estimate at the Census Block Group level. This resolution provided a detailed, interactive map that could be explored by the public through ArcGIS Online and ArcGIS programs.
 - **Skills and Deliverables:** ArcGIS Online, Data Cleaning, Cartography
-- **Link:** [Online Map](services9.arcgis.com/QHXEWAb0pE2rvfbb/arcgis/rest/services/Median_Income_Map__Online_/FeatureServer)
+- **Link:** [Online Map](https://services9.arcgis.com/QHXEWAb0pE2rvfbb/arcgis/rest/services/Median_Income_Map__Online_/FeatureServer)
 
 ### Additional Examples - Basic Visualizations
 ![Watershed](./assets/img/Wells to Watersheds.png)
