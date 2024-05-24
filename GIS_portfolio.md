@@ -8,6 +8,11 @@
 - **Skills and Deliverables:** ArcGIS Online, Interactive Data Visualization, Spatial Analysis
 - **Link:** [Dashboard](https://montclair.maps.arcgis.com/apps/dashboards/d4113e3aeaea44529c3d5a37b35877f1)
 
+### Machine Learning Image Classification - QGIS and Landsat Imagery 
+![Image](./assets/img/QGIS Classification.png)
+- **Description:** In this project, remote sensing imagery drawn from Landsat was used to estimate the distribution of water, greenery, and urban structures in a Land Use Land Cover Classification. Training samples were generated for each category of land cover and fed into a machine learning algorithm, converting the raster image into a vector feature class. The QGIS plugin Semi-Automatic Classification was used for this project. 
+- **Skills and Deliverables:** QGIS, Machine Learning Tools, Semi-Automatic Classification Plugin
+
 ### GIS Training for Data Analysis Team
 ![Presentation](./assets/img/Virtual Presentation Photo #2.png)
 - **Description:** A nonprofit organization sought to introduce GIS to their 20-person data analysis team, most of whom had limited GIS experience. Over two separate 1-hour sessions, I provided a general introduction to GIS and a tutorial on conducting spatial analyses using PowerPoint, PollEverywhere, and ArcGIS Pro, tailored to the organization's specific workflows and goals. By the end, the team was proficient in cleaning datasets, conducting Joins, and utilizing geoprocessing tools for cartographic overlays.
