@@ -21,3 +21,10 @@
 - **Description:** This code retrieves and processes geolocated tweets in New Jersey using the Twitter API. It first sets up API tokens and constructs a query to fetch relevant tweets, which are then saved as JSON files. The script subsequently imports these JSON files, cleans and processes the tweet text by removing unnecessary characters and stopwords, and performs text analysis to tokenize and count word occurrences. Finally, it filters and summarizes the word counts, exporting the cleaned and analyzed data to a CSV file.
 - **Language:** R
 - **Link:** [R Script Text File](./assets/codefiles/R - Twitter Scraping .txt)
+
+<be>
+### Automating Spatial Joins in GIS using ArcPy
+![Image](./assets/img/arcpy.png)
+- **Description:** This Python script uses the ArcPy library to process point data by importing tables, adding spatial attributes, and performing spatial joins to assign zone information. It then exports the processed data and converts them to text files for further analysis.
+- **Language:** Python
+- **Link:** [Python Script Text File](./assets/codefiles/Python - Spatial Join Automation with ArcPy.txt)
