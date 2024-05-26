@@ -5,7 +5,6 @@
 **Research Interests**: Environmental Justice (EJ), Environmental Policy, Big Data, Critical GIS <br>
 **Technical Skills**: GIS, R, Python, Salesforce
 
-<br>
 ## Education
 **Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
 **B.A., International Relations;** _Minors, Political Science, Italian, and International Studies_ | California State University, Chico (_May 2019_)<br>
