@@ -2,8 +2,8 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html)
 
+#### Research Interests: Environmental Justice (EJ), Environmental Policy, Big Data, Critical GIS
 #### Technical Skills: GIS, R, Python, Salesforce
-#### Research Interests: Environmental Justice, Environmental Policy, Big Data, Critical GIS
 
 ## Education
 **Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
