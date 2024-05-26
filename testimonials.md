@@ -5,7 +5,7 @@
 <br>
 
 ### "Skilled and Efficient ArcGIS Consultant - Language Needs Analysis"
-> **Quote:** "I hired Charles as a GIS Specialist to map various Census data points and other data in a variety of ArcGIS layers around the City of Los Angeles for a project my firm is leading. Layers included: local libraries, city council districts, Limited English Proficiency language speakers in the area (Spanish, Chinese, Korean, Tagalog, Armenian, Russian, and Persian), low income data, and renter data in the area. Charles was FANTASTIC. He brought my vision to life and gave us above and beyond what we expected. He was also extremely kind, very available, and quick to provide deliverables. He even provided us with how to videos to help us navigate the maps he created. I cannot speak highly enough of him and his work. 20 out of 10 recommend! Thank you Charles!" - Tracey S. | Vice President
+> **Quote:** "I hired Charles as a GIS Specialist to map various Census data points and other data in a variety of ArcGIS layers around the City of Los Angeles for a project my firm is leading. Layers included: local libraries, city council districts, Limited English Proficiency language speakers in the area (Spanish, Chinese, Korean, Tagalog, Armenian, Russian, and Persian), low income data, and renter data in the area. Charles was FANTASTIC. He brought my vision to life and gave us above and beyond what we expected. He was also extremely kind, very available, and quick to provide deliverables. He even provided us with how to videos to help us navigate the maps he created. I cannot speak highly enough of him and his work. 20 out of 10 recommend! Thank you Charles!" | Tracey S. - Vice President
 >
 <br>
 
@@ -15,7 +15,7 @@
 <br>
 
 ### "GIS Specialist for Visualization, Analysis and Design"
-> **Quote**: "CJ helped my team out with a tedious research project. The project required calling and speaking with schools, and hospitals in Georgia to collect population information from them. The data collected via calls was merged with the 2020 census data. The final deliverable had to be made in a GIS-friendly format. Throughout the project, CJ was reliable and communicative. CJ worked independently and delivered quality GIS data and metadata. CJ was even able to complete the research project ahead of schedule. I would recommend CJ's talents to anyone in need of some GIS, research, or data asistance!" -Kira G. | Technical Customer Success
+> **Quote**: "CJ helped my team out with a tedious research project. The project required calling and speaking with schools, and hospitals in Georgia to collect population information from them. The data collected via calls was merged with the 2020 census data. The final deliverable had to be made in a GIS-friendly format. Throughout the project, CJ was reliable and communicative. CJ worked independently and delivered quality GIS data and metadata. CJ was even able to complete the research project ahead of schedule. I would recommend CJ's talents to anyone in need of some GIS, research, or data asistance!" | Kira G. - Technical Customer Success
 >
 <br>
 
@@ -25,7 +25,7 @@
 <br>
 
 ### "Help with Geo-Spatial Data"
->**Quote:** "I was working with Charles on a specific project in regards to electric mobility and geo spacial data, turned out that Charles is a highly motivated researcher and very savvy. Although we were facing some initial stumbling stones from data side, he managed to find a solution within due time and accomplished the task within days. The communication with Charles was almost in real time and he was very responsive to my input. He delivered exactly what I needed, I will definitely hire him again! " - Maria F. | Marketing Manager
+>**Quote:** "I was working with Charles on a specific project in regards to electric mobility and geo spacial data, turned out that Charles is a highly motivated researcher and very savvy. Although we were facing some initial stumbling stones from data side, he managed to find a solution within due time and accomplished the task within days. The communication with Charles was almost in real time and he was very responsive to my input. He delivered exactly what I needed, I will definitely hire him again! " | Maria F. - Marketing Manager
 >
 <br>
 
@@ -43,5 +43,5 @@
 >
 <br>
 
-- **Description:** Selected results from an anonymous survey provided to students who completed the undergraduate Introduction to GIS and Remote Sensing course. The above answers are responding to the question "What was your favorite part of this course and/or what did you find most valuable?". 
+- **Description:** Selected results from an anonymous survey provided to students who completed Charles' undergraduate Introduction to GIS and Remote Sensing course. The above answers are responding to the question "What was your favorite part of this course and/or what did you find most valuable?". 
 - **Link:** [Full Report](./assets/EAES210SP24Survey.pdf)
