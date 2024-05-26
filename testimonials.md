@@ -2,7 +2,6 @@
 
 # Testimonials
 ### _Endorsements from past clients and students_
-<br>
 
 ### "Skilled and Efficient ArcGIS Consultant - Language Needs Analysis"
 > **Quote:** "I hired Charles as a GIS Specialist to map various Census data points and other data in a variety of ArcGIS layers around the City of Los Angeles for a project my firm is leading. Layers included: local libraries, city council districts, Limited English Proficiency language speakers in the area (Spanish, Chinese, Korean, Tagalog, Armenian, Russian, and Persian), low income data, and renter data in the area. Charles was FANTASTIC. He brought my vision to life and gave us above and beyond what we expected. He was also extremely kind, very available, and quick to provide deliverables. He even provided us with how to videos to help us navigate the maps he created. I cannot speak highly enough of him and his work. 20 out of 10 recommend! Thank you Charles!" | - Tracey S. (Vice President)
