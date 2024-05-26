@@ -6,7 +6,7 @@
 ![Image](./assets/img/Rplot01.png)
 - **Description:** This code was utilized to generate relationships within a system dynamics model. The script performs data analysis by fitting multivariate linear regression and grey models with various transformations. It includes functions for generating grey model parameters, plotting scatter plots with different transformations, calculating and recording R-squared values from linear models, and generating and storing regression outputs, all while handling data preprocessing and visualization.
 - **Language:** R
-- **Link:** [R Script Text File](./assets/codefiles/R - High Level Covariation Mining.R)
+- **Link:** [R Script Text File](./assets/codefiles/R - High Level Covariation Mining.txt)
 
 ### Mining Google Search and Google Trends Data
 ![Image](./assets/img/googlescrape.png)
