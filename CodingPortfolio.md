@@ -22,7 +22,7 @@
 - **Language:** R
 - **Link:** [R Script Text File](./assets/codefiles/R - Twitter Scraping .txt)
 
-<be>
+<br>
 ### Automating Spatial Joins in GIS using ArcPy
 ![Image](./assets/img/arcpy.png)
 - **Description:** This Python script uses the ArcPy library to process point data by importing tables, adding spatial attributes, and performing spatial joins to assign zone information. It then exports the processed data and converts them to text files for further analysis.
