@@ -1,0 +1,174 @@
+import arcpy
+import os
+from arcpy import env
+import dbf
+
+# Set folder variables
+GDBfolder = r"C:/.../GDBs"
+GDBName = "GDBName.gdb"
+GDB = os.path.join(GDBfolder, GDBName)
+AISinputs = r"C:/.../InputFolder"
+AISoutputs = os.path.join(AISinputs, "outputs")
+
+# Set ArcGIS Project and Maps
+project_path = r"C:/.../Arc Project.aprx"
+p = arcpy.mp.ArcGISProject(project_path)
+m = p.listMaps("Layers - PANYNJ_AIS_Data")[0]
+
+# Create GDB
+arcpy.CreateFileGDB_management(GDBfolder, GDBName)
+
+# Set workspace to AIS data folder
+arcpy.env.workspace = AISinputs
+tblList = arcpy.ListTables()
+print(tblList)
+
+# Import tables to GDB
+arcpy.conversion.TableToGeodatabase(Input_Table=tblList, Output_Geodatabase=GDB)
+print("Tables in Geodatabase")
+
+# Set workspace to file GDB
+arcpy.env.workspace = GDB
+env.overwriteOutput = True
+tableList = arcpy.ListTables()
+print(tableList)
+
+# Add Counties field
+for table in tableList:
+    arcpy.management.AddField(table, "County", "TEXT")
+
+# Create XY layer and convert to GDB
+WGS84_PROJ = "GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]];IsHighPrecision"
+outPath = GDB
+
+for table in tableList:
+    tableName = table + "_layer"
+    arcpy.MakeXYEventLayer_management(table, "Longitude", "Latitude", tableName, WGS84_PROJ, "#")
+    arcpy.conversion.FeatureClassToShapefile(tableName, outPath)
+    print('Created XY shapefile for ' + table)
+
+# Spatial Join - Terminals
+dataList = arcpy.ListFeatureClasses()
+print("Beginning Spatial Joins")
+
+for data in dataList:
+    # Set variables for spatial join
+    targetFeatures = data
+    joinFeature = r"C:/...//PANYNJ_Terminals_CVI_Program_2016.shp"
+    outFC = data + "_spatial_join"
+
+    arcpy.analysis.SpatialJoin(target_features=targetFeatures, join_features=joinFeature, out_feature_class=outFC,
+                               join_operation="JOIN_ONE_TO_ONE", join_type="KEEP_ALL", match_option="INTERSECT")
+
+    # Join Terminal field from Spatial Join to XY layer
+    joinTable = outFC
+    field = "Location"
+    field2 = "Terminal"
+
+    rows = arcpy.UpdateCursor(joinTable)
+    if rows is None:
+        print(joinTable + " File not processed. Does not visit Terminal")
+    else:
+        for row in rows:
+            row.Terminal = row.Location
+            rows.updateRow(row)
+
+        joinField = "OBJECTID"
+        lyrTemp = arcpy.MakeFeatureLayer_management(targetFeatures, "lyrTemp")
+        lyrTempJoin = arcpy.MakeFeatureLayer_management(joinTable, "lyrTempJoin")
+        outName = data + "_terminal"
+
+        lyrJoin = arcpy.AddJoin_management(lyrTemp, joinField, lyrTempJoin, joinField)
+        desc = arcpy.Describe(lyrJoin)
+        fieldInfo = desc.fieldInfo
+        index = 78
+        terminalField = fieldInfo.getFieldName(index)
+        expression = f"!{terminalField}!"
+        arcpy.CalculateField_management(lyrJoin, "Terminal", expression, "PYTHON")
+        lyrFinish = arcpy.RemoveJoin_management(lyrJoin)
+        newLyr = arcpy.FeatureClassToFeatureClass_conversion(lyrFinish, GDB, outName)
+
+    # Run Spatial Join - County
+    joinFeature = r"C:/...//CZMP_counties_2009/CZMP_counties_USACE_WGS84.shp"
+    outFC = data + "_spatial_join"
+
+    arcpy.analysis.SpatialJoin(target_features=targetFeatures, join_features=joinFeature, out_feature_class=outFC,
+                               join_operation="JOIN_ONE_TO_ONE", join_type="KEEP_ALL", match_option="INTERSECT")
+
+    # Join County field from Spatial Join to XY layer
+    joinTable = outFC
+    field = "CNTY"
+    field2 = "County"
+    rows = arcpy.UpdateCursor(joinTable)
+    if rows is None:
+        print(joinTable + " File not processed. Does not visit County")
+    else:
+        for row in rows:
+            row.County = row.NAME
+            rows.updateRow(row)
+
+        joinField = "OBJECTID"
+        lyrTemp = arcpy.MakeFeatureLayer_management(targetFeatures, "lyrTemp")
+        lyrTempJoin = arcpy.MakeFeatureLayer_management(joinTable, "lyrTempJoin")
+        outName = data + "_county"
+
+        lyrJoin = arcpy.AddJoin_management(lyrTemp, joinField, lyrTempJoin, joinField)
+        desc = arcpy.Describe(lyrJoin)
+        fieldInfo = desc.fieldInfo
+        index = 88
+        countyField = fieldInfo.getFieldName(index)
+        expression = f"!{countyField}!"
+        arcpy.CalculateField_management(lyrJoin, "County", expression, "PYTHON")
+        lyrFinish = arcpy.RemoveJoin_management(lyrJoin)
+        newLyr = arcpy.FeatureClassToFeatureClass_conversion(lyrFinish, GDB, outName)
+
+        # Use Select by Attribute and Calculate Field to mark a "Y" on XY layer when within each buffer
+        shpLayer = data
+        zones = {
+            "Twenty_nm": r"C:/.../20.shp",
+            "Fifteen_nm": r"C:/.../15.shp",
+            "Ten_nm": r"C:/.../10.shp",
+            "Five_nm": r"C:/.../5.shp",
+            "AC": r"C:/.../water.shp",
+            "Man": r"C:/.../harbor.shp"
+        }
+
+        arcpy.MakeFeatureLayer_management(shpLayer, "temp_select_layer")
+        for zone_name, zone_path in zones.items():
+            if zone_name == "Twenty_nm":
+                arcpy.SelectLayerByLocation_management("temp_select_layer", "WITHIN", zone_path)
+            else:
+                arcpy.SelectLayerByLocation_management("temp_select_layer", "WITHIN", zone_path, "", "REMOVE_FROM_SELECTION")
+            arcpy.CalculateField_management("temp_select_layer", zone_name, '"Y"', "PYTHON")
+
+        exportTbl = f"import_ais_gis_{data[11:20]}_202304_011924.dbf" # ADJUST DATE PROCESSED
+        exportFolder = AISoutputs
+        arcpy.TableToTable_conversion(shpLayer, exportFolder, exportTbl)
+        print(data + " Spatial Join complete")
+
+p.save()
+del row, rows, p
+
+print("All Spatial Joins Complete!")
+
+# Set workspace to Output Folder
+arcpy.env.workspace = AISoutputs
+os.chdir(AISoutputs)
+
+tableList = arcpy.ListTables("*.dbf")
+print(tableList)
+
+# Convert DBF to TAB file
+for table_name in tableList:
+    with dbf.Table(table_name, codepage='utf8', default_data_types='enhanced') as table:
+        dbf.export(table, format="tab")
+
+print("Output complete! Adding carriage return and converting to txt")
+
+# Add carriage return and convert to txt
+for filename in os.listdir(AISoutputs):
+    if filename.endswith('.tab'):
+        outfilename = filename.replace('.tab', '.txt')
+        with open(os.path.join(AISoutputs, filename), 'r', encoding='utf-8', errors='ignore') as in_file, open(os.path.join(AISoutputs, outfilename), 'w', encoding='utf-8') as out_file:
+            for line in in_file:
+                out_file.write(line.replace("\n\n", "\r\n"))
