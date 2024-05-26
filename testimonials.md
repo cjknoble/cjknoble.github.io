@@ -25,4 +25,4 @@
 ### "What was your favorite part of this course and/or what did you find most valuable?"
 ![Survey Results 2024](./assets/img/Class Survey Results Sp2024.png)
 - **Summary of Original Project Request:** Selected results from an anonymous survey provided to students who completed the undergraduate Introduction to GIS and Remote Sensing course. The above answers are responding to the question "What was your favorite part of this course and/or what did you find most valuable?". 
-- **Link:** [Full Report] (./assets/EAES210SP24Survey.pdf)
+- **Link:** [Full Report](./assets/EAES210SP24Survey.pdf)
