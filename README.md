@@ -67,5 +67,37 @@
 -	Developed in-depth literature review on ethnographic research techniques, particularly in community outreach settings 
 -	Collected ethnographic field data through small group sessions and individual interviews
 
+### Awards
+**Outstanding Teaching Assistant,** Academic Year 2021-2022	(_May 2022_) <br>
+Montclair State University
 
-For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles.
+**Graduation with Highest Distinction in the Major**	(_May 2019_) <br>
+California State University, Chico
+
+**Dean’s List,** Academic Years 2015-2019	(_August 2015 – May 2019_) <br>
+California State University, Chico
+
+**Policy Position Paper Award,** National Model United Nations Conference 	(_April 2017, April 2019_) <br>
+New York, NY
+
+**Outstanding Delegate Award,** National Model United Nations Conference 	(_October 2018_) <br>
+Washington D.C.
+
+**Policy Position Paper Award,** National Model United Nations Conference	(_October 2017, October 2018_) <br>
+Washington D.C.
+
+**“Rookie” of the Year Award,** University Housing	(_May 2017_) <br>
+California State University, Chico
+
+**Community Development Award,** University Housing	(_May 2017_) <br>
+California State University, Chico
+
+**Outstanding Delegate Award,** Northwestern Model United Nations Conference	(_November 2016_) <br>
+Seattle, WA
+
+**Policy Position Paper Award,** Northwestern Model United Nations Conference	(_November 2016_) <br>
+Seattle, WA
+
+
+
+_For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles._
