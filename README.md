@@ -4,7 +4,7 @@
 
 **Research Interests**: Environmental Justice (EJ), Environmental Policy, Big Data, Critical GIS <br>
 **Technical Skills**: GIS, R, Python, Salesforce <br>
-**Certifications**: GIS Specialization (UC Davis: Coursera), Remote Pilot of Small Unmanned Aircraft Systems (FAA Part 107)
+**Certifications**: GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
 
 ## Education
 **Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
