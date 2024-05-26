@@ -67,7 +67,7 @@
 -	Developed in-depth literature review on ethnographic research techniques, particularly in community outreach settings 
 -	Collected ethnographic field data through small group sessions and individual interviews
 
-### Awards
+## Awards
 **Outstanding Teaching Assistant,** Academic Year 2021-2022	(_May 2022_) <br>
 Montclair State University
 
