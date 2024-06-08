@@ -1,4 +1,5 @@
 # CJ, the EJ Guy
+### cjknoble@gmail.com
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
