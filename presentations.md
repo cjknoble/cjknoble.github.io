@@ -9,6 +9,7 @@
 - **Details:**
   - Research poster presentation session hosted by the Clean Energy and Sustainability Analytics Center
   - Presented poster on the development of a simulative tool for detecting lead using environmental, socioeconomic, and big data sources
+ - **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2024/poster03/29/)
 
 ### A System Dynamics Simulative Approach to Lead Remediation in the Era of Big Data
 - **Date:** April 2024
