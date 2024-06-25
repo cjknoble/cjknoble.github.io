@@ -3,8 +3,8 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-**Research Interests**: Environmental Justice (EJ), Environmental Policy, Big Data, Critical GIS <br>
-**Technical Skills**: GIS, R, Python, Salesforce <br>
+**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
+**Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
 **Certifications**: GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
 
 ## Education
