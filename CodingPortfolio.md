@@ -30,7 +30,7 @@
 <br>
 
 ### Scraping EJ Publication Abstracts for Most Popular Words
-![Image](./assets/img/scrape.png)
+![Image](./assets/img/scrape.jpg)
 - **Description:** This code scrapes and processes PDFs of environmental justice research publications to analyze abstract word frequencies. It reads PDF files in the current directory, converts their text into a corpus, and cleans the text. The code identifies and extracts terms that appear frequently across the documents, calculates their total occurrences, and writes the sorted word counts to a CSV file for further analysis.
 - **Language:** R
 - **Key Packages:** pdftools, tm, rvest
