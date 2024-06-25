@@ -9,8 +9,9 @@
 
 ## Education
 **Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
-**B.A., International Relations;** _Minors, Political Science, Italian, and International Studies_ | California State University, Chico (_May 2019_)<br>
-**Study Abroad** | Università degli Studi di Torino, Italy (_January 2018 - May 2018_)<br>
+**B.A., International Relations;** _Minors, Political Science, Italian, and International Studies_ | California State University, Chico (_December 2015_)<br>
+**Visiting Semester;** _Political Science Sacramento Semester Program_ | California State University, Sacramento (_Spring 2019_) <br>
+**Study Abroad** | Università degli Studi di Torino, Italy (_Spring 2018_)<br>
 
 
 ## Teaching and Leadership Experience 
