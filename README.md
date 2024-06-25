@@ -8,10 +8,14 @@
 **Certifications**: GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
 
 ## Education
-**Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
-**B.A., International Relations;** _Minors, Political Science, Italian, and International Studies_ | California State University, Chico (_December 2015_)<br>
-**Visiting Semester;** _Political Science Sacramento Semester Program_ | California State University, Sacramento (_Spring 2019_) <br>
-**Study Abroad** | Università degli Studi di Torino, Italy (_Spring 2018_)<br>
+**Ph.D., Environmental Science and Management** (May 2025) <br> 
+Montclair State University <br>
+**B.A., International Relations;** _Minors, Political Science, Italian, and International Studies_ (December 2015)<br> 
+California State University, Chico <br>
+**Visiting Semester;** _Political Science Sacramento Semester Program_ (Spring 2019)<br>
+California State University, Sacramento  <br>
+**Study Abroad** (Spring 2018) <br> 
+Università degli Studi di Torino, Italy <br>
 
 
 ## Teaching and Leadership Experience 
