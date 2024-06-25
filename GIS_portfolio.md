@@ -3,8 +3,8 @@
 # GIS Portfolio 
 
 ### Total Paid Hours 
-**Consultant for _Starcrest Consulting LLC_**: 359 Hours <br>
-**Independent Contractor**: 171 Hours <br>
+**Consultant for _Starcrest Consulting LLC_**: 379 Hours <br>
+**Independent Contractor**: 231 Hours <br>
 **University Lab Instructor and Lecturer**: 136 Hours
 
 ### Interactive Dashboard of EV Chargers Across California
