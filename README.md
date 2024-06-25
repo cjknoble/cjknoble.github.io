@@ -3,9 +3,12 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
-**Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
-**Certifications**: GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
+### **Technical Skills**: 
+ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
+### **Research Interests**: 
+Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
+### **Certifications**: 
+GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
 
 ## Education
 **Ph.D., Environmental Science and Management** | Montclair State University (_May 2025_) <br>
