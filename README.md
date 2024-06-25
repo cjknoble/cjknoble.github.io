@@ -23,7 +23,7 @@ Università degli Studi di Torino, Italy <br>
 ## Teaching and Leadership Experience 
 **GIS Consultant, Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
 -	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others.
--	Completed 360+ hours of work with Starcrest LLC and 150+ hours as an independent consultant
+-	Completed 360+ hours of work with Starcrest LLC and 200+ hours as an independent consultant
 -	Developed project management plans to achieve GIS and visualization goals within budget
 -	Engaged in database management by acquiring, processing, and maintaining geospatial datasets 
 -	Automated geospatial analyses to process up to thousands of datapoints using GIS, Python, and R 
