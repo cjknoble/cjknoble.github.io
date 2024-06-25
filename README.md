@@ -21,12 +21,14 @@ Università degli Studi di Torino, Italy <br>
 
 
 ## Teaching and Leadership Experience 
-**GIS Analyst, Freelance (_July 2022 - Present_)**
-- Clients have included: Port of New York and New Jersey, City of Los Angeles, Urban SDK, Autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others
--	Demonstrate project management skills by identifying scope, tracking progress, and achieving client goals within a given timeframe and budget
--	Engage in database management by acquiring, processing, and maintaining spatial and non-spatial datasets inside and out of GIS software 
--	Complete and automate geospatial analyses for tens to thousands of datasets using GIS software, Python, R and Esri Model Builder
--	Create compelling visualizations and maps, both static and interactive, to effectively communicate trends and patterns derived from complex geospatial datasets
+**GIS Consultant, Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
+-	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others.
+-	Completed 360+ hours of work with Starcrest LLC and 150+ hours as an independent consultant
+-	Developed project management plans to achieve GIS and visualization goals within budget
+-	Engaged in database management by acquiring, processing, and maintaining geospatial datasets 
+-	Automated geospatial analyses to process up to thousands of datapoints using GIS, Python, and R 
+-	Created compelling static and interactive visualizations to communicate geospatial trends 
+
 
 **Adjunct Professor & Graduate Assistant, Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
 - Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)
