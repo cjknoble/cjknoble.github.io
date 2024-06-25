@@ -41,9 +41,3 @@
 ![Geology](./assets/img/Geology and Creeks.png)
 - **Description:** Above are a number of additional visualizations created in ArcGIS Pro. Final products can be shared as static or dynamic maps, curated to match the preferred style guidelines.
 - **Skills and Deliverables:** Data Visualization, GIS, Cartography
-
-### Name
-![Image](./assets/img/.png)
-- **Description:** 
-- **Skills and Deliverables:** 
-- **Link:** [Name](link)
