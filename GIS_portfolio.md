@@ -3,12 +3,12 @@
 # GIS Portfolio 
 
 
-## Total Paid Hours 
+## _Total Paid Hours_
 **Consultant for _Starcrest Consulting LLC_**: 379 Hours <br>
 **Independent Contractor**: 231 Hours <br>
 **University Lab Instructor and Lecturer**: 136 Hours
 
-## Projects 
+## _Projects_
 ![Dashboard](./assets/img/Dashboard GIS 2.png)
 ### Interactive Dashboard of EV Chargers Across California
 - **Description:** This dashboard is an example of data acquisition, cleaning, and specialization resulting in an interactive dashboard. CSV data containing information on EV chargers in California were cleaned, plotted, and overlayed with state datasets.
