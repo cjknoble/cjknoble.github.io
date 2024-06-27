@@ -71,6 +71,7 @@
  
 
 ### Guide to Fleet Electrification
+![Image](./assets/img/Fleet Electrification.png)
 - **Date:** October 2020
 - **Event:** Center for Sustainable Energy
 - **Presenters:** Tim Mensalvas, Rick Teebay, Charles Knoble, Bridget Tighe
