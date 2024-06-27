@@ -3,6 +3,7 @@
 # Presentations
 
 ### Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ
+![Image](./assets/img/MSU 2024.jpg)
  - **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2024/poster03/29/)
 - **Date:** May 2024
 - **Event:** Clean Energy and Sustainability Analytics Center Annual Summit
@@ -39,6 +40,7 @@
   - Provided 30-minute presentation on the basics of GIS and the importance of integrating Critical GIS 
 
 ### Trends in Modern Environmental Justice Studies: A Review of the Techniques, Methodologies, and Findings
+![Image](./assets/img/MSU May 2023.jpg)
 - **Date:** May 2023
 - **Event:** Sigma Xi Student Research Symposium, Montclair State University
 - **Presenter:** Charles Knoble
@@ -47,6 +49,7 @@
 - Informational presentation discussing recent trends in environmental justice research publications
 
 ### Environmental Justice in New Jersey: An Exploration of Twitter as an Early Detection Tool
+![Image](./assets/img/MSU Apr 2023.jpg)
 - **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2023/poster02/20/)
 - **Date:** April 2023
 - **Event:** Montclair State University, Student Research Symposium
