@@ -19,9 +19,18 @@ California State University, Sacramento  <br>
 **Study Abroad** (Spring 2018) <br> 
 Università degli Studi di Torino, Italy <br>
 
+## Peer-Reviewed Publications
+1. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. [In Review]
+2. Cade R., Yu D., *Knoble C.*, Whyte K., Lal P., Borgerson C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. [In Review]
+3. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). Smart Cities Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. [In Review]
+4. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). From Crisis to Prevention: Mining Big Data for Public Health Insights During the Flint Water Crisis. [In Review]
+5. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006)
+6. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
+7. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
+8. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
 
 ## Teaching and Leadership Experience 
-**GIS Consultant, Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
+**GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
 -	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others.
 -	Completed 360+ hours of work with Starcrest LLC and 200+ hours as an independent consultant
 -	Developed project management plans to achieve GIS and visualization goals within budget
@@ -29,8 +38,7 @@ Università degli Studi di Torino, Italy <br>
 -	Automated geospatial analyses to process up to thousands of datapoints using GIS, Python, and R 
 -	Created compelling static and interactive visualizations to communicate geospatial trends 
 
-
-**Adjunct Professor & Graduate Assistant, Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
+**Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
 - Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)
 - Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Advanced GIS and Remote Sensing (_EAES 310/510_), Planet Earth (_EAES 101_), Research Methods in Sustainability Science (_EAES 390_)
 -	Responsible for developing curriculum, designing labs, and leading lectures for Introductory GIS course consisting of 20+ undergraduate and graduate students 
@@ -39,26 +47,16 @@ Università degli Studi di Torino, Italy <br>
 -	Led lab sections consisting of hands-on practice with software including ArcGIS Pro, QGIS software, Google Earth Pro, and R
 -	Awarded “Outstanding Teaching Assistant” first year in the role for guiding students with compassion and enthusiasm  
 
-**Clean Cities Coordinator; Project Manager, Center for Sustainable Energy (_April 2020 - August 2021_)**
+**Clean Cities Coordinator, Project Manager; Center for Sustainable Energy (_April 2020 - August 2021_)**
 -	Developed and implemented outreach efforts for fleet electrification by organizing webinars with industry leaders, drafting monthly email campaigns, and engaging in one-on-one consultations
 -	Coordinated monthly fleet electrification training sessions, environmental policy newsletter distributions, and sustainability transition resource updates for 60 partner organizations 
 -	Planned, developed, and enacted internal assessment of outreach effectiveness through cross-department collaboration research study  
 
-**Student Teacher, Model United Nations, California State University, Chico (_August 2016 - April 2019_)**
+**Student Teacher, Model United Nations; California State University, Chico (_August 2016 - April 2019_)**
 - Leadership in Model United Nations (_EAES 340A/B_)
--	Developed lesson plans, assignments, exams and lecture slides each semester 
+-	Developed lesson plans, assignments, exams, and lecture slides each semester 
 -	Independent of course professor, lectured 30+ person class on debate rhetoric and research methods once a week
 -	Assessed and guided students on research methods, policy brief writing techniques, and public speaking in a debate environment
-
-## Peer-Reviewed Publications
-1. Yu D., *Knoble C.*, Whyte K., Lal P., Borgerson C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. [In Review]
-2. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). Smart Cities Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. [In Review]
-3. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). From Crisis to Prevention: Mining Big Data for Public Health Insights During the Flint Water Crisis. [In Review]
-4. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. https://doi.org/10.20900/jsr20240006
-5. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). https://doi.org/10.1088/1748-9326/ad13b6
-6. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. https://www.mdpi.com/2072-4292/15/23/5510
-7. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. https://doi.org/10.1002/sd.2519
-
 
 ## Additional Research Experience
 **California’s Sea Level Rise Policies Internship, California Department of Conservation (_January 2019 – May 2019_)**
