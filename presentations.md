@@ -3,15 +3,16 @@
 # Presentations
 
 ### Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ
+ - **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2024/poster03/29/)
 - **Date:** May 2024
 - **Event:** Clean Energy and Sustainability Analytics Center Annual Summit
 - **Presenter:** Charles Knoble
 - **Details:**
   - Research poster presentation session hosted by the Clean Energy and Sustainability Analytics Center
   - Presented poster on the development of a simulative tool for detecting lead using environmental, socioeconomic, and big data sources
- - **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2024/poster03/29/)
 
 ### A System Dynamics Simulative Approach to Lead Remediation in the Era of Big Data
+![Image](./assets/img/AAG 2024 (1).JPG)
 - **Date:** April 2024
 - **Event:** American Association of Geographers Annual Meeting 2024
 - **Presenter:** Charles Knoble
@@ -20,6 +21,7 @@
   - Presentation discussed ongoing research on the development of a system dynamics simulative tool for lead detection with environmental justice considerations 
 
 ### Workshop: Practicing Critical GIS in the Era of Big Data and AI
+- **Link:** [Video Recording](https://www.youtube.com/watch?v=03EEYN0Qknw)  
 - **Date:** March 2024
 - **Event:** University of California Davis, maptimeDavis Group
 - **Presenter:** Charles Knoble
@@ -27,7 +29,6 @@
   - Developed and led two-hour hybrid workshop for 20 in-person and online attendees 
   - Engaged attendees with Critical GIS publications and Big Data environmental research
   - Conducted hands-on demonstration using ArcGIS Online to analyze and assess big data
-- **Link:** [Video Recording](https://www.youtube.com/watch?v=03EEYN0Qknw)  
 
 ### Geographic Information Systems Day
 - **Date:** November 2023
@@ -46,13 +47,13 @@
 - Informational presentation discussing recent trends in environmental justice research publications
 
 ### Environmental Justice in New Jersey: An Exploration of Twitter as an Early Detection Tool
+- **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2023/poster02/20/)
 - **Date:** April 2023
 - **Event:** Montclair State University, Student Research Symposium
 - **Presenter:** Charles Knoble 
 - **Details:**
   - Research poster presentation session hosted by Montclair State University 
   - Presented poster on results derived from big data integration investigation for environmental justice
-- **Link:** [Poster Abstract](https://digitalcommons.montclair.edu/student-research-symposium/2023/poster02/20/)
 
 ### A Big Data Exploration of Injustice: Twitter Data and Environmental Justice in New Jersey
 - **Date:** March 2023
