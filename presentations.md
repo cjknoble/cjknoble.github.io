@@ -56,7 +56,6 @@
   - Presented poster on results derived from big data integration investigation for environmental justice
 
 ### A Big Data Exploration of Injustice: Twitter Data and Environmental Justice in New Jersey
-![Image](./assets/img/AAG 2023 (1).JPG)
 - **Date:** March 2023
 - **Event:** American Association of Geographers, Annual Meeting 2023
 - **Presenter:** Charles Knoble
