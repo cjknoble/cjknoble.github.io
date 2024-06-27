@@ -6,6 +6,7 @@
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
 **Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
 **Certifications**: GIS Specialization [UC Davis: Coursera], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107]
+<br>
 
 ## Education
 **Ph.D., Environmental Science and Management** (Spring 2025) <br> 
@@ -18,6 +19,7 @@ _Political Science Sacramento Semester Program_ <br>
 California State University, Sacramento  <br>
 **Study Abroad** (Spring 2018) <br> 
 Università degli Studi di Torino, Italy <br>
+<br>
 
 ## Peer-Reviewed Publications
 1. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. [In Review]
@@ -28,6 +30,7 @@ Università degli Studi di Torino, Italy <br>
 6. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
 7. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
 8. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
+<br>
 
 ## Teaching and Leadership Experience 
 **GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
@@ -57,6 +60,7 @@ Università degli Studi di Torino, Italy <br>
 -	Developed lesson plans, assignments, exams, and lecture slides each semester 
 -	Independent of course professor, lectured 30+ person class on debate rhetoric and research methods once a week
 -	Assessed and guided students on research methods, policy brief writing techniques, and public speaking in a debate environment
+<br>
 
 ## Additional Research Experience
 **California’s Sea Level Rise Policies Internship, California Department of Conservation (_January 2019 – May 2019_)**
@@ -75,6 +79,7 @@ Università degli Studi di Torino, Italy <br>
 **“Assessing Impacts at the Alcohol Drug and Education Center” Research Methods, California State University, Chico (_December 2016_)**
 -	Developed in-depth literature review on ethnographic research techniques, particularly in community outreach settings 
 -	Collected ethnographic field data through small group sessions and individual interviews
+<br>
 
 ## Awards
 **Outstanding Teaching Assistant,** Academic Year 2021-2022	(_May 2022_) <br>
