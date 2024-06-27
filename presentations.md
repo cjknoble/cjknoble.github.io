@@ -22,6 +22,7 @@
   - Presentation discussed ongoing research on the development of a system dynamics simulative tool for lead detection with environmental justice considerations 
 
 ### Workshop: Practicing Critical GIS in the Era of Big Data and AI
+![Image](./assets/img/MapTimeDavis (1).png)
 - **Link:** [Video Recording](https://www.youtube.com/watch?v=03EEYN0Qknw)  
 - **Date:** March 2024
 - **Event:** University of California Davis, maptimeDavis Group
@@ -32,6 +33,7 @@
   - Conducted hands-on demonstration using ArcGIS Online to analyze and assess big data
 
 ### Geographic Information Systems Day
+![Image](./assets/img/GIS Day 2023.JPG)
 - **Date:** November 2023
 - **Event:** Montclair State University, GIS Professionals Presentations
 - **Presenters:** Charles Knoble, Nicholas D’Ambrosio, Amy Ferdinand, Rolihlahla Ferdinand
