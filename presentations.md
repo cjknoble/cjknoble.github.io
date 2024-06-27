@@ -37,6 +37,14 @@
   - Public presentations from a group of public, private, and academic GIS professionals on the application of GIS in different fields
   - Provided 30-minute presentation on the basics of GIS and the importance of integrating Critical GIS 
 
+### Trends in Modern Environmental Justice Studies: A Review of the Techniques, Methodologies, and Findings
+- **Date:** May 2023
+- **Event:** Sigma Xi Student Research Symposium, Montclair State University
+- **Presenter:** Charles Knoble
+- **Details:**
+- Environmental science symposium hosted by Montclair State University's Sigma Xi chapter 
+- Informational presentation discussing recent trends in environmental justice research publications
+
 ### Environmental Justice in New Jersey: An Exploration of Twitter as an Early Detection Tool
 - **Date:** April 2023
 - **Event:** Montclair State University, Student Research Symposium
@@ -53,6 +61,7 @@
 - **Details:**
   - Paper presentation for Symposium on Harnessing the Geospatial Data Revolution for Sustainability Solutions: Data-intensive and Computational Geography
   - Presentation discussed research on the integration of social media and remote sensing big data into environmental injustice detection
+ 
 
 ### Guide to Fleet Electrification
 - **Date:** October 2020
