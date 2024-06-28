@@ -114,4 +114,4 @@ Seattle, WA
 
 
 
-_For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles, or download my [Professional Resume](./assets/06.05.2023 Charles Knoble Resume.pdf) and [Academic CV](./assets/Charles Knoble Academic CV- 2024.05.05.pdf)._
+_For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles, or download my [Professional Resume](./assets/06.05.2023 Charles Knoble Resume.pdf) and [Academic CV](./assets/06.28.2023 Charles Knoble Resume.pdf)._
