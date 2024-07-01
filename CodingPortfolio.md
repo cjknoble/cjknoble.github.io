@@ -2,6 +2,13 @@
 
 # Coding Portfolio
 
+![Image](./assets/img/fastfood.png)
+### Big Data Collection, Public Health, and Food Justice [Ongoing]
+- **Description:** This is an ongoing project aiming to discern the relationship between big data and food justice in California. This script draws temporal interest in fast food mobile applications over time and across regions. The resulting data will be compared with demographic and health datasets to extrapolate relationships between targeted advertising, corporate data collection, and public health risks.  
+- **Language:** R
+- **Key Packages:** gtrendsR, dplyr
+- **Link:** [R Project](https://github.com/cjknoble/Paper-FoodJustice_BigData)
+
 ![Image](./assets/img/Rplot01.png)
 ### High-Level Covariation Mining
 - **Description:** This code was utilized to generate relationships within a system dynamics model. The script performs data analysis by fitting multivariate linear regression and grey models with various transformations. It includes functions for generating grey model parameters, plotting scatter plots with different transformations, calculating and recording R-squared values from linear models, and generating and storing regression outputs, all while handling data preprocessing and visualization.
