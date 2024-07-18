@@ -39,9 +39,16 @@ Università degli Studi di Torino, Italy <br>
 -	Awarded “Outstanding Teaching Assistant” first year in the role for guiding students with compassion and enthusiasm  
 
 **Clean Cities Coordinator, Project Manager; Center for Sustainable Energy (_April 2020 - August 2021_)**
--	Developed and implemented outreach efforts for fleet electrification by organizing webinars with industry leaders, drafting monthly email campaigns, and engaging in one-on-one consultations
--	Coordinated monthly fleet electrification training sessions, environmental policy newsletter distributions, and sustainability transition resource updates for 60 partner organizations 
--	Planned, developed, and enacted internal assessment of outreach effectiveness through cross-department collaboration research study  
+-	For US Department of Energy's regional Federal Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports to federal program managers
+-	Promoted California’s 2030 vehicle electrification goals by drafting bi-weekly sustainability policy newsletters, hosting educational webinars, educating dealership staff, and connecting industry leaders
+-	Coordinated outreach impact assessment through mystery shopping and subsequent statistical analyses
+-	Established, maintained, and tracked relationships with 60+ partner organizations using Salesforce 
+
+**Research Intern; California Department of Conservation (_January 2019 - May 2019_)**
+- Identified, tracked, and summarized state legislation relating to land conservation, oil and gas industry regulations, and climate change for department executives
+- Proposed future statewide climate resilience initiatives based on findings drawn from academic literature review
+- Further community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
+- Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations  
 
 **Student Teacher, Model United Nations; California State University, Chico (_August 2016 - April 2019_)**
 - Leadership in Model United Nations (_EAES 340A/B_)
