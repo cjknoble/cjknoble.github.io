@@ -47,7 +47,7 @@ Università degli Studi di Torino, Italy <br>
 **Research Intern; California Department of Conservation (_January 2019 - May 2019_)**
 - Identified, tracked, and summarized state legislation relating to land conservation, oil and gas industry regulations, and climate change for department executives
 - Proposed future statewide climate resilience initiatives based on findings drawn from academic literature review
-- Further community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
+- Furthered community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
 - Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations  
 
 **Student Teacher, Model United Nations; California State University, Chico (_August 2016 - April 2019_)**
