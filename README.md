@@ -23,11 +23,11 @@ Università degli Studi di Torino, Italy <br>
 ## Teaching and Leadership Experience 
 **GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
 -	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others.
--	Completed 360+ hours of work with Starcrest LLC and 200+ hours as an independent consultant
--	Developed project management plans to achieve GIS and visualization goals within budget
--	Engaged in database management by acquiring, processing, and maintaining geospatial datasets 
--	Automated geospatial analyses to process up to thousands of datapoints using GIS, Python, and R 
--	Created compelling static and interactive visualizations to communicate geospatial trends 
+-	Lead and assist with sustainable development projects and vessel emissions inventories
+-	Automate geospatial analyses to process up to thousands of data points using GIS, Python, and R 
+-	Assisted in drafting 7 reports on methodologies, findings, and recommendations for government clients
+-	Contributed to 5 federal grant proposals by quantifying environmental justice impacts of proposed projects
+-	Completed 360+ hours with Starcrest LLC and 200+ hours as an independent consultant for 10+ clients
 
 **Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
 - Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)
@@ -40,8 +40,9 @@ Università degli Studi di Torino, Italy <br>
 
 **Clean Cities Coordinator, Project Manager; Center for Sustainable Energy (_April 2020 - August 2021_)**
 -	For US Department of Energy's regional Federal Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports to federal program managers
--	Promoted California’s 2030 vehicle electrification goals by drafting bi-weekly sustainability policy newsletters, hosting educational webinars, educating dealership staff, and connecting industry leaders
--	Coordinated outreach impact assessment through mystery shopping and subsequent statistical analyses
+-	For Federal Department of Energy’s Regional Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports 
+-	Promoted California’s vehicle electrification goals by drafting bi-weekly sustainability policy newsletters, hosting educational webinars, training dealership staff, and connecting industry leaders
+-	Coordinated outreach impact assessment through mystery shopping and statistical analyses
 -	Established, maintained, and tracked relationships with 60+ partner organizations using Salesforce 
 
 **Research Intern; California Department of Conservation (_January 2019 - May 2019_)**
