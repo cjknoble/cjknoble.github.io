@@ -2,11 +2,18 @@
 
 # Coding Portfolio
 
-![Image](./assets/img/fastfood.png)
-### Big Data Collection, Public Health, and Food Justice [Ongoing]
-- **Description:** This is an ongoing project aiming to discern the relationship between big data and food justice in California. This script draws temporal interest in fast food mobile applications over time and across regions. The resulting data will be compared with demographic and health datasets to extrapolate relationships between targeted advertising, corporate data collection, and public health risks.  
+![Image](./assets/img/census.png)
+### Generating Census Feature Classes in R for Geographic Analysis 
+- **Description:** This is an ongoing project aiming to analyze the relationship between socioeconomic characteristics and brownfields in New Jersey. This script generates geographically enriched census data directly from the US Census API, consolidates the results into a single shapefile, and plots the results. The resulting dataset will be used in a geographic investigation of brownfield distributions from an environmental justice perspective.
 - **Language:** R
-- **Key Packages:** gtrendsR, dplyr
+- **Key Packages:** tidycensus, ggplot2, dplyr
+- **Link:** [R Project](https://github.com/cjknoble/Paper-Brownfields/tree/main/R%20Project)
+
+![Image](./assets/img/fastfood.png)
+### Big Data Collection, Public Health, and Food Justice
+- **Description:** This is a project aiming to discern the relationship between big data and food justice in California using a data justice framework. This script draws temporal interest in fast food mobile applications over time and across regions from the Google Trends tool. The resulting data is compared with demographic and health datasets to extrapolate relationships between targeted advertising, corporate data collection, and public health risks. A spatial panel regression approach is utilized to control for spatial and temporal autocorrelation. 
+- **Language:** R
+- **Key Packages:** gtrendsR, splm, spdep, dplyr
 - **Link:** [R Project](https://github.com/cjknoble/Paper-FoodJustice_BigData)
 
 ![Image](./assets/img/Rplot01.png)
