@@ -3,7 +3,7 @@
 # Coding Portfolio
 
 ![Image](./assets/img/census.png)
-### Generating Census Feature Classes in R for Geographic Analysis 
+### Generating Census Feature Classes in R for Geographic Analysis [In Progress]
 - **Description:** This is an ongoing project aiming to analyze the relationship between socioeconomic characteristics and brownfields in New Jersey. This script generates geographically enriched census data directly from the US Census API, consolidates the results into a single shapefile, and plots the results. The resulting dataset will be used in a geographic investigation of brownfield distributions from an environmental justice perspective.
 - **Language:** R
 - **Key Packages:** tidycensus, ggplot2, dplyr
