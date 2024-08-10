@@ -16,7 +16,7 @@
 - **Key Packages:** gtrendsR, splm, spdep, dplyr
 - **Link:** [R Project](https://github.com/cjknoble/Paper-FoodJustice_BigData)
 
-![Image](./assets/img/Rplot01.png)
+![Image](./assets/img/Rplot01_1.png)
 ### High-Level Covariation Mining
 - **Description:** This code was utilized to generate relationships within a system dynamics model. The script performs data analysis by fitting multivariate linear regression and grey models with various transformations. It includes functions for generating grey model parameters, plotting scatter plots with different transformations, calculating and recording R-squared values from linear models, and generating and storing regression outputs, all while handling data preprocessing and visualization.
 - **Language:** R
