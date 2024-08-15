@@ -61,7 +61,7 @@ Università degli Studi di Torino, Italy <br>
 ## Peer-Reviewed Publications
 1. Yu, D., *Knoble C*.,  Fabolude G., Vu. A. (n.d.). Understanding Lead Exposure Through Data and Domain Expertise: Insights from New Jersey with a Geographically Weighted Regression Analysis. [In Review]
 2. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). The Battle Against Lead Exposure: Unveiling Urban Lead Exposure Dynamics Through System Modeling. [In Review]
-3. Vu A., *Knoble C*., Fabolude G., Yu D. (n.d.).Micromobility in New York City: Historical Development, Current Trends, and Future Directions for Sustainable Urban Transportation. [In Review]
+3. Vu A., *Knoble C*., Fabolude G., Yu D. (n.d.). Micromobility in New York City: Historical Development, Current Trends, and Future Directions for Sustainable Urban Transportation. [In Review]
 4. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. [In Review]
 5. Cade R., Yu D., *Knoble C.*, Whyte K., Lal P., Borgerson C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. [In Review]
 6. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). Smart Cities Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. [In Review]
