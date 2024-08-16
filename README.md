@@ -22,12 +22,12 @@ Università degli Studi di Torino, Italy <br>
 
 ## Teaching and Leadership Experience 
 **GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
--	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Port of Los Angeles and Long Beach, Center for Sustainable Energy, and others.
--	Lead and assist with sustainable development projects and vessel emissions inventories
+-	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Center for Sustainable Energy, and others
+-	Assess environmental, social, and economic equity impacts of proposed sustainability projects
 -	Automate geospatial analyses to process up to thousands of data points using GIS, Python, and R 
 -	Assisted in drafting 7 reports on methodologies, findings, and recommendations for government clients
 -	Contributed to 5 federal grant proposals by quantifying environmental justice impacts of proposed projects
--	Completed 360+ hours with Starcrest LLC and 200+ hours as an independent consultant for 10+ clients
+-	Completed 380+ hours with Starcrest LLC and 220+ hours as an independent consultant for 10+ clients
 
 **Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
 - Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)
