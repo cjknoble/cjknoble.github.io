@@ -59,8 +59,7 @@ _Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Ad
 - Identified, tracked, and summarized state legislation relating to land conservation, oil and gas industry regulations, and climate change for department executives
 - Proposed future statewide climate resilience initiatives based on findings drawn from academic literature review
 - Furthered community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
-- Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations  
-
+- Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations <br>
 <br>
 
 ## Peer-Reviewed Publications
@@ -74,7 +73,7 @@ _Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Ad
 8. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006)
 9. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
 10. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
-11. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
+11. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519) <br>
 <br>
 
 ## Additional Teaching and Research Experience
@@ -99,7 +98,7 @@ _Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Ad
 
 **“Assessing Impacts at the Alcohol Drug and Education Center” Research Methods, California State University, Chico (_December 2016_)**
 -	Developed in-depth literature review on ethnographic research techniques, particularly in community outreach settings 
--	Collected ethnographic field data through small group sessions and semi-structured interviews
+-	Collected ethnographic field data through small group sessions and semi-structured interviews <br>
 <br>
 
 ## Awards
