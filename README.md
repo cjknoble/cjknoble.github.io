@@ -4,7 +4,7 @@
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
 ## About Me
-_I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data analytics, and interdisciplinary collaboration._ 
+_**I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data analytics, and interdisciplinary collaboration.**_ 
 <br> 
 
 _As a first-generation Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. My publications have been featured in high-impact journals like_ Remote Sensing _and_ Sustainable Development. _In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues._
