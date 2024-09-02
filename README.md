@@ -3,6 +3,9 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
+## About
+> I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data integration, and interdisciplinary collaboration. <br> As a first-generation Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. <br> In my role as an Adjunct Professor and award-winning Teaching Assistant, I develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues. My publications, which cover topics from environmental justice to carbon sequestration, have been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. Beyond academia, I’ve shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the Italian Red Cross.
+
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
 **Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
 **Certifications**: GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)]
@@ -20,25 +23,25 @@ California State University, Sacramento  <br>
 Università degli Studi di Torino, Italy <br>
 <br>
 
-## Teaching and Leadership Experience 
+## Leadership Experience 
 **GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
--	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Center for Sustainable Energy, and others
 -	Assess environmental, social, and economic equity impacts of proposed sustainability projects
 -	Automate geospatial analyses to process up to thousands of data points using GIS, Python, and R 
 -	Assisted in drafting 7 reports on methodologies, findings, and recommendations for government clients
 -	Contributed to 5 federal grant proposals by quantifying environmental justice impacts of proposed projects
 -	Completed 380+ hours with Starcrest LLC and 220+ hours as an independent consultant for 10+ clients
+-	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Center for Sustainable Energy, and others
 
 **Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
-- Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)
-- Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Advanced GIS and Remote Sensing (_EAES 310/510_), Planet Earth (_EAES 101_), Research Methods in Sustainability Science (_EAES 390_)
+_Adjunct Professor: Introduction to GIS and Remote Sensing (_EAES 210/506_)_
+_Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Advanced GIS and Remote Sensing (_EAES 310/510_), Planet Earth (_EAES 101_), Research Methods in Sustainability Science (_EAES 390_)_
 -	Responsible for developing curriculum, designing labs, and leading lectures for Introductory GIS course consisting of 20+ undergraduate and graduate students 
 -	Create course syllabus incorporating engaging in-class activities and real-world spatial analysis exams
 -	Instruct teaching assistant on guiding, aiding, and grading graduate and undergraduate student performance 
 -	Led lab sections consisting of hands-on practice with software including ArcGIS Pro, QGIS software, Google Earth Pro, and R
 -	Awarded “Outstanding Teaching Assistant” first year in the role for guiding students with compassion and enthusiasm  
 
-**Clean Cities Coordinator, Project Manager; Center for Sustainable Energy (_April 2020 - August 2021_)**
+**Project Manager, Clean Cities Coordinator; Center for Sustainable Energy (_April 2020 - August 2021_)**
 -	For US Department of Energy's regional Federal Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports to federal program managers
 -	For Federal Department of Energy’s Regional Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports 
 -	Promoted California’s vehicle electrification goals by drafting bi-weekly sustainability policy newsletters, hosting educational webinars, training dealership staff, and connecting industry leaders
@@ -51,11 +54,6 @@ Università degli Studi di Torino, Italy <br>
 - Furthered community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
 - Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations  
 
-**Student Teacher, Model United Nations; California State University, Chico (_August 2016 - April 2019_)**
-- Leadership in Model United Nations (_EAES 340A/B_)
--	Developed lesson plans, assignments, exams, and lecture slides each semester 
--	Independent of course professor, lectured 30+ person class on debate rhetoric and research methods once a week
--	Assessed and guided students on research methods, policy brief writing techniques, and public speaking in a debate environment
 <br>
 
 ## Peer-Reviewed Publications
@@ -72,7 +70,13 @@ Università degli Studi di Torino, Italy <br>
 11. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
 <br>
 
-## Additional Research Experience
+## Additional Teaching and Research Experience
+**Student Teacher, Model United Nations; California State University, Chico (_August 2016 - April 2019_)**
+- Leadership in Model United Nations (_EAES 340A/B_)
+-	Developed lesson plans, assignments, exams, and lecture slides each semester 
+-	Independent of course professor, lectured 30+ person class on debate rhetoric and research methods once a week
+-	Assessed and guided students on research methods, policy brief writing techniques, and public speaking in a debate environment
+
 **California’s Sea Level Rise Policies Internship, California Department of Conservation (_January 2019 – May 2019_)**
 -	Assisted Chief Science Advisor by collecting and analyzing emerging academic research and policy initiatives addressing sea level rise in the United States 
 -	Synthesized trends and findings in recent research and presented to internal and external stakeholders at quarterly science briefing 
@@ -88,7 +92,7 @@ Università degli Studi di Torino, Italy <br>
 
 **“Assessing Impacts at the Alcohol Drug and Education Center” Research Methods, California State University, Chico (_December 2016_)**
 -	Developed in-depth literature review on ethnographic research techniques, particularly in community outreach settings 
--	Collected ethnographic field data through small group sessions and individual interviews
+-	Collected ethnographic field data through small group sessions and semi-structured interviews
 <br>
 
 ## Awards
