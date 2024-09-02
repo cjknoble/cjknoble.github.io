@@ -7,10 +7,10 @@
 _I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data analytics, and interdisciplinary collaboration._ 
 <br> 
 
-_As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. My publications have been featured in high-impact journals like_ Remote Sensing _and_ Sustainable Development. _In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues._
+As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. My publications have been featured in high-impact journals like_ Remote Sensing and Sustainable Development. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
 <br> 
 
-_With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross._
+With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
 
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
 **Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Systems Thinking, Big Data, Critical GIS, Data Justice <br>
