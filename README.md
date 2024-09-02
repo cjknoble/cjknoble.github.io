@@ -3,18 +3,18 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-## About
-_I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data integration, and interdisciplinary collaboration._ 
+## About Me
+_I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data analytics, and interdisciplinary collaboration._ 
 <br> 
 
-_As a first-generation Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. _
+_As a first-generation Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. My publications have been featured in high-impact journals like_ Remote Sensing _and_ Sustainable Development. _In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues._
 <br> 
 
-_In my role as an Adjunct Professor and award-winning Teaching Assistant, I develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues. My publications, which cover topics from environmental justice to carbon sequestration, have been featured in high-impact journals like_ Remote Sensing _and_ Sustainable Development. _Beyond academia, I’ve shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the Italian Red Cross._
+_With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross._
 
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Intermediate], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
-**Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Big Data, Critical GIS, Data Justice <br>
-**Certifications**: GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)]
+**Research Interests**: Environmental Justice (EJ), Environmental Policy, Urban Sustainability, Systems Thinking, Big Data, Critical GIS, Data Justice <br>
+**Certifications**: Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)]
 <br>
 
 ## Education
