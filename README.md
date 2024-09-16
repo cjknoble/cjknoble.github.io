@@ -69,10 +69,11 @@ _Graduate Assistant: Introduction to GIS and Remote Sensing (_EAES 210/506_), Ad
 5. Cade R., Yu D., *Knoble C.*, Whyte K., Lal P., Borgerson C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. [In Review]
 6. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). Smart Cities Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. [In Review]
 7. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). From Crisis to Prevention: Mining Big Data for Public Health Insights During the Flint Water Crisis. [In Review]
-8. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006)
-9. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
-10. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
-11. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519) <br>
+8. Fabolude, G., Knoble, C., Vu, A., & Yu, D. (2024). Comprehensive lead exposure vulnerability for New Jersey: Insights from a Multi-Criteria risk assessment and community impact analysis framework. Ecological Indicators, 167, 112585. [https://doi.org/https://doi.org/10.1016/j.ecolind.2024.112585](https://doi.org/https://doi.org/10.1016/j.ecolind.2024.112585) 
+9. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006)
+10. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
+11. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
+12. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519) <br>
 <br>
 
 ## Additional Teaching and Research Experience
