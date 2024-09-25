@@ -1,12 +1,12 @@
 # CJ, the EJ Guy
-### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [ORCID](https://orcid.org/0000-0002-6363-3580)
+### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ)
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-_I’m dedicated to advancing just sustainabilities and environmental justice through innovative geospatial techniques, big data analytics, and interdisciplinary collaboration. I aim to accomplish this by empowering organizations, communities, and students to leverage these innovative approaches with a careful eye on social justice and equity._ <br>
+_Could we detect the next Flint Water Crisis using Google Search and social media data? Does socially sensed big data actually represent community voices? What role do Data Justice and Critical GIS play in disaster resilience?_ <br>
 
 ## About Me <br> 
-As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data to tackle complex environmental and social challenges, with a critical focus on their impacts on environmental justice and social equity. My publications have been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
+As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. My research employing novel big data investigations and system-level simulations has been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
 <br> 
 
 With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
