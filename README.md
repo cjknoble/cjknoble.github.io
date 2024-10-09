@@ -30,18 +30,23 @@ Università degli Studi di Torino, Italy <br>
 <br>
 
 ## Peer-Reviewed Publications
-1. Yu, D., *Knoble C*.,  Fabolude G., Vu. A. (n.d.). Understanding Lead Exposure Through Data and Domain Expertise: Insights from New Jersey with a Geographically Weighted Regression Analysis. [In Review]
-2. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). The Battle Against Lead Exposure: Unveiling Urban Lead Exposure Dynamics Through System Modeling. [In Review]
-3. Vu A., *Knoble C*., Fabolude G., Yu D. (n.d.). Micromobility in New York City: Historical Development, Current Trends, and Future Directions for Sustainable Urban Transportation. [In Review]
-4. *Knoble C.*, Fabolude G., Vu A., Yu D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. [In Review]
-5. Cade R., Yu D., *Knoble C.*, Whyte K., Lal P., Borgerson C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. [In Review]
-6. Fabolude G., *Knoble C*., Vu A., Yu D. (n.d.). Smart Cities Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. [In Review]
-7. *Knoble, C.*, Fabolude, G., Vu, A., Yu, D. From crisis to prevention: mining big data for public health insights during the Flint Water Crisis. Discover Sustainability 2024, 5, 289, [https://doi.org/10.1007/s43621-024-00514-w](https://doi.org/10.1007/s43621-024-00514-w).
-8. Fabolude, G., *Knoble, C.*, Vu, A., & Yu, D. (2024). Comprehensive lead exposure vulnerability for New Jersey: Insights from a Multi-Criteria risk assessment and community impact analysis framework. Ecological Indicators, 167, 112585. [https://doi.org/10.1016/j.ecolind.2024.112585](https://doi.org/https://doi.org/10.1016/j.ecolind.2024.112585) 
-9. Chien S.-C., *Knoble C.* (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. Journal of Sustainability Research, 6(1), e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006)
-10. Chien S.-C., *Knoble C.*, Krumins J. (2024). Human population density and blue carbon stocks in mangroves soils. 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
-11. *Knoble C.*, Yu D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. Remote Sensing, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
-12. *Knoble C.*, Yu D. (2023). Environmental justice: An evolving concept in a dynamic era. Sustainable Development, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519) <br>
+**Publications** <br>
+1. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (2024). From crisis to prevention: mining big data for public health insights during the Flint Water Crisis. _Discover Sustainability_, 5, 289, [https://doi:10.1007/s43621-024-00514-w](https://doi:10.1007/s43621-024-00514-w)
+2. Fabolude, G., **Knoble, C.**, Vu, A., Yu, D. (2024). Comprehensive lead exposure vulnerability for New Jersey: Insights from a Multi-Criteria risk assessment and community impact analysis framework. _Ecological Indicators_, 167, 112585. [https://doi.org/10.1016/j.ecolind.2024.112585](https://doi.org/10.1016/j.ecolind.2024.112585)
+3. Chien, S.-C., & **Knoble, C.** (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. _Journal of Sustainability Research_, 6(1), e240006, Article e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006) 
+4. Chien, S.-C., **Knoble, C.**, Krumins, J. (2024). Human population density and blue carbon stocks in mangroves soils. _Environmental Research Letters_, 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6) 
+5. **Knoble, C.** & Yu, D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. _Remote Sensing_, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
+6. **Knoble, C.** & Yu, D. (2023). Environmental justice: An evolving concept in a dynamic era. _Sustainable Development_, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
+
+**Manuscripts Under Review** <br>
+1. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Data Justice and Fast-Food Mobile Apps: Analyzing Targeted Marketing and Health Implications in Marginalized Communities. _Social Science and Medicine._
+2. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. _Science of the Total Environment._
+3. Fabolude G., **Knoble, C.**, Vu A., Yu D. (n.d.). Beyond Mining: A Comprehensive Approach to Assessing Lead Exposure Risks in Nigeria. _Environmental Impact Assessment Review._
+4. Yu, D., **Knoble, C.**, Fabolude G., Vu. A. (n.d.). Understanding Lead Exposure Through Data and Domain Expertise: Insights from New Jersey with a Geographically Weighted Regression Analysis. _Environmental Science and Pollution Research._
+5. Fabolude, G., **Knoble, C.**, Vu, A., Yu, D. (n.d.). The Battle Against Lead Exposure: Unveiling Urban Lead Exposure Dynamics Through System Modeling. _Environmental Health Perspectives._ 
+6. Vu, A., **Knoble, C.**, Fabolude, G., Yu, D (n.d.). Micromobility in New York City: Historical Development, Current Trends, and Future Directions for Sustainable Urban Transportation. _Transport Policy._ 
+7. Cade, R., Yu, D., **Knoble, C.**, Whyte, K., Lal, P., Borgerson, C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. _Sustainable Futures._ 
+8. Fabolude, G, **Knoble, C.**, Vu, A., Yu, D. (n.d.). Smart Cities, Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. _Geography and Sustainability._ <br>
 <br>
 
 ## Leadership Experience 
