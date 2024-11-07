@@ -37,9 +37,10 @@ Università degli Studi di Torino, Italy <br>
 1. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (2024). From crisis to prevention: mining big data for public health insights during the Flint Water Crisis. _Discover Sustainability_, 5, 289, [https://doi:10.1007/s43621-024-00514-w](https://doi:10.1007/s43621-024-00514-w)
 2. Fabolude, G., **Knoble, C.**, Vu, A., Yu, D. (2024). Comprehensive lead exposure vulnerability for New Jersey: Insights from a Multi-Criteria risk assessment and community impact analysis framework. _Ecological Indicators_, 167, 112585. [https://doi.org/10.1016/j.ecolind.2024.112585](https://doi.org/10.1016/j.ecolind.2024.112585)
 3. Chien, S.-C., & **Knoble, C.** (2024). Research of Education for Sustainable Development: Understanding New Emerging Trends and Issues after SDG 4. _Journal of Sustainability Research_, 6(1), e240006, Article e240006. [https://doi.org/10.20900/jsr20240006](https://doi.org/10.20900/jsr20240006) 
-4. Chien, S.-C., **Knoble, C.**, Krumins, J. (2024). Human population density and blue carbon stocks in mangroves soils. _Environmental Research Letters_, 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6) 
-5. **Knoble, C.** & Yu, D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. _Remote Sensing_, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
-6. **Knoble, C.** & Yu, D. (2023). Environmental justice: An evolving concept in a dynamic era. _Sustainable Development_, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
+4. Chien, S.-C., **Knoble, C.**, Krumins, J. (2024). Human population density and blue carbon stocks in mangrove soils. _Environmental Research Letters_, 19(3). [https://doi.org/10.1088/1748-9326/ad13b6](https://doi.org/10.1088/1748-9326/ad13b6)
+5. Fabolude, G., **Knoble, C.**, Vu, A., & Yu, D. (2024). Smart cities, smart systems: A comprehensive review of system dynamics model applications in urban studies in the big data era. _Geography and Sustainability_. https://doi.org/https://doi.org/10.1016/j.geosus.2024.10.002 
+6. **Knoble, C.** & Yu, D. (2023). Bridging the Gap: Analyzing the Relationship between Environmental Justice Awareness on Twitter and Socio-Environmental Factors Using Remote Sensing and Big Data. _Remote Sensing_, 15(23), 5510. [https://doi.org/10.3390/rs15235510](https://doi.org/10.3390/rs15235510)
+7. **Knoble, C.** & Yu, D. (2023). Environmental justice: An evolving concept in a dynamic era. _Sustainable Development_, 31(4), 2091-2108. [https://doi.org/10.1002/sd.2519](https://doi.org/10.1002/sd.2519)
 
 **Manuscripts Under Review** <br>
 1. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Data Justice and Fast-Food Mobile Apps: Analyzing Targeted Marketing and Health Implications in Marginalized Communities. _Social Science and Medicine._
@@ -48,8 +49,7 @@ Università degli Studi di Torino, Italy <br>
 4. Yu, D., **Knoble, C.**, Fabolude G., Vu. A. (n.d.). Understanding Lead Exposure Through Data and Domain Expertise: Insights from New Jersey with a Geographically Weighted Regression Analysis. _Environmental Science and Pollution Research._
 5. Fabolude, G., **Knoble, C.**, Vu, A., Yu, D. (n.d.). The Battle Against Lead Exposure: Unveiling Urban Lead Exposure Dynamics Through System Modeling. _Environmental Health Perspectives._ 
 6. Vu, A., **Knoble, C.**, Fabolude, G., Yu, D (n.d.). Micromobility in New York City: Historical Development, Current Trends, and Future Directions for Sustainable Urban Transportation. _Transport Policy._ 
-7. Cade, R., Yu, D., **Knoble, C.**, Whyte, K., Lal, P., Borgerson, C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. _Sustainable Futures._ 
-8. Fabolude, G, **Knoble, C.**, Vu, A., Yu, D. (n.d.). Smart Cities, Smart Systems: A Comprehensive Review of System Dynamics Model in Urban Studies in the Big Data Era. _Geography and Sustainability._ <br>
+7. Cade, R., Yu, D., **Knoble, C.**, Whyte, K., Lal, P., Borgerson, C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. _Sustainable Futures._<br>
 <br>
 
 ## Leadership Experience 
