@@ -2,7 +2,7 @@
 
 # Presentations
 
-![Image](./assets/img/GISDay2024.HEIC)
+![Image](./assets/img/GISDay2024.png)
 ### Panel Moderator & Organizer: Taking GIS Beyond the Classroom 
 - **Date:** November 2024
 - **Event:** Montclair State University, GIS Day(s) 2024
