@@ -4,8 +4,8 @@
 
 
 ## _Total Paid Hours_
-**Consultant for _Starcrest Consulting LLC_**: 428 Hours <br>
-**Independent Contractor**: 271 Hours <br>
+**Consultant for _Starcrest Consulting LLC_**: 400+ Hours <br>
+**Independent Contractor**: 300+ Hours <br>
 **University Lab Instructor and Lecturer**: 170 Hours
 
 ## _Projects_
