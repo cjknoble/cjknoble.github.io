@@ -14,20 +14,20 @@ My research employing novel big data investigations and system-level simulations
 
 With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
 
-**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Advanced], Stella Architect [Advanced], Python [Intermediate], SQL [Intermediate], Salesforce [Basic] <br>
+**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Advanced], Stella Architect [Advanced], Python [Intermediate], SQL [Intermediate], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
 **Certifications**: Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)] <br>
 <br>
 
 ## Education
 **Ph.D., Environmental Science and Management** (Spring 2025) <br> 
-Montclair State University <br>
+Montclair State University, Montclair, NJ <br>
 **B.A., International Relations** (Fall 2019) <br> 
  _Minors, Political Science, Italian, and International Studies_ <br>
-California State University, Chico <br>
+California State University, Chico, CA <br>
 **Visiting Semester** (Spring 2019)<br>
 _Political Science Sacramento Semester Program_ <br>
-California State University, Sacramento  <br>
+California State University, Sacramento, CA  <br>
 **Study Abroad** (Spring 2018) <br> 
 Università degli Studi di Torino, Italy <br>
 <br>
@@ -54,34 +54,39 @@ Università degli Studi di Torino, Italy <br>
 <br>
 
 ## Leadership Experience 
-**GIS Consultant; Starcrest LLC & Independent Consultant  (_July 2022 - Present_)**
--	Assess environmental, social, and economic equity impacts of proposed sustainability projects
--	Automate geospatial analyses to process up to thousands of data points using GIS, Python, and R 
--	Assisted in drafting 7 reports on methodologies, findings, and recommendations for government clients
--	Contributed to 5 federal grant proposals by quantifying environmental justice impacts of proposed projects
--	Completed 380+ hours with Starcrest LLC and 220+ hours as an independent consultant for 10+ clients
--	Provided services to over 10 clients, including Port of New York and New Jersey, Port of London, Urban SDK, autosense AG, Center for Sustainable Energy, and others
+**GIS Analyst, Starcrest LLC [400+ Hours] (_July 2022 - Present_)**
+-	Reduced analysis time by 50% and cut project costs by streamlining geospatial workflows through automation using Python and ESRI ModelBuilder
+-	Improved emissions inventory resolution by over 10x, applying fishnet spatial aggregation techniques to enable precise environmental assessments
+-	Authored seven emissions inventory reports, detailing methodologies, results, and actionable recommendations for sustainability planning
+	
+**GIS Consultant, Independent Contractor [300+ Hours]  (_July 2022 - Present_)**
+-	Evaluated social equity and environmental impacts of proposed projects by conducting advanced geospatial analyses using R and ArcGIS Pro, aligning with Justice40 regulations
+-	Developed high-quality deliverables including interactive dashboards, maps, and tutorials to effectively communicate actionable sustainability insights to stakeholders
+-	Contributed to proposals securing over $35 million in federal funding through impact assessments, engaging visualizations, and detailed reporting to ensure compliance with regulatory frameworks
+
+**PhD Candidate & Research Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
+-	Published 8 peer-reviewed studies, including three as first author, advancing research in environmental justice, sustainability, and public health
+-	Designed R scripts to automate analysis of temporal covariation patterns across datasets, improving research accuracy and scalability 
+-	Led doctoral researchers in developing simulative models, establishing best practices for data collection and analysis in compliance with federal grant requirements
 
 **Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
 _Adjunct Professor: Introduction to GIS and Remote Sensing (EAES 210/506)_
 _Graduate Assistant: Introduction to GIS and Remote Sensing (EAES 210/506), Advanced GIS and Remote Sensing (EAES 310/510), Planet Earth (EAES 101), Research Methods in Sustainability Science (EAES 390)_
--	Responsible for developing curriculum, designing labs, and leading lectures for Introductory GIS course consisting of 20+ undergraduate and graduate students 
--	Create course syllabus incorporating engaging in-class activities and real-world spatial analysis exams
--	Instruct teaching assistant on guiding, aiding, and grading graduate and undergraduate student performance 
--	Led lab sections consisting of hands-on practice with software including ArcGIS Pro, QGIS software, Google Earth Pro, and R
--	Awarded “Outstanding Teaching Assistant” first year in the role for guiding students with compassion and enthusiasm  
+-	Increased GIS program engagement by 200%, organizing professional panel sessions, company tabling events, and software open-houses
+-	Facilitated lab activities for courses in Statistical Research Methods, Introductory and Advanced GIS, and Planet Earth, fostering practical application of geographic principles and statistical analysis tools
+-	Developed novel curricula and lab exercises for an Introductory GIS course, incorporating tools such as R, ArcGIS Pro, QGIS, and Google Earth Pro
+-	Awarded "Outstanding Teaching Assistant" in the first year and promoted to adjunct professor position
 
-**Project Manager, Clean Cities Coordinator; Center for Sustainable Energy (_April 2020 - August 2021_)**
+**Project Manager & Clean Cities Coordinator; Center for Sustainable Energy (_April 2020 - August 2021_)**
 -	For US Department of Energy's regional Federal Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports to federal program managers
--	For Federal Department of Energy’s Regional Clean Cities Coalition, developed annual project management plan, facilitated charter renewal, and submitted quarterly sustainability reports 
--	Promoted California’s vehicle electrification goals by drafting bi-weekly sustainability policy newsletters, hosting educational webinars, training dealership staff, and connecting industry leaders
--	Coordinated outreach impact assessment through mystery shopping and statistical analyses
--	Established, maintained, and tracked relationships with 60+ partner organizations using Salesforce 
+-	Strengthened partnerships with 60+ government entities and NGOs, providing resources, training, and newsletters to advance sustainability goals
+-	Organized and implemented outreach strategies by hosting webinars with industry leaders, managing email campaigns, and conducting one-on-one consultations, advancing fleet electrification efforts
+-	Led a team of 12 in evaluating outreach effectiveness, developing strategies to improve stakeholder engagement
 
 **Research Intern; California Department of Conservation (_January 2019 - May 2019_)**
-- Identified, tracked, and summarized state legislation relating to land conservation, oil and gas industry regulations, and climate change for department executives
-- Proposed future statewide climate resilience initiatives based on findings drawn from academic literature review
-- Furthered community science initiatives by curating presentations and infographics showcasing complex quantitative environmental protection program data
+-	Synthesized U.S. land conservation trends into actionable insights, informing the Chief Scientist’s long-term program goals through academic and policy research
+-	Presented policy recommendations and summaries of California’s conservation initiatives to executive stakeholders at quarterly science briefings
+-	Coordinated community science outreach in neighborhoods affected by oil wells, collaborating with the Director of Outreach and Engagement to equip community members to report health concerns
 - Assisted in processing and vetting development grant proposals' environmental impact as defined by CEQA regulations <br>
 <br>
 
