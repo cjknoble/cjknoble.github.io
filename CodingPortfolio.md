@@ -13,7 +13,7 @@
 ### Accessing the Census API Using R: Geospatial Equity Analysis and Visualizations
 - **Description:** This project aimed to analyze the relationship between socioeconomic characteristics and brownfields in New Jersey. This script generates geographically enriched census data directly from the US Census API, conducts a buffer-intersection and inverse-distance weighting analysis, and plots the results. The final dataset is being used to study brownfield distributions from an environmental justice perspective.
 - **Language:** R
-- **Key Packages:** tidycensus, ggplot2, dplyr
+- **Key Packages:** tidycensus, ggplot2, dplyr, sf, spdep
 - **Link:** [R Project](https://github.com/cjknoble/Paper-Brownfields/tree/main/R%20Project)
 
 ![Image](./assets/img/fastfood.png)
