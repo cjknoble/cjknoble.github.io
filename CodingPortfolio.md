@@ -7,7 +7,7 @@
 - **Description:** This is an ongoing project aiming to identify the popularity and accessibility of information around green finance. This script generates search frequency for topics such as green bonds and ESG and plots the data temporally and geographically. 
 - **Language:** R
 - **Key Packages:** gtrendsR, tidycensus, tidyr, ggplot2, dplyr
-- **Link:** [R Project Page Pending]
+- **Link:** [R Project](https://github.com/cjknoble/Paper-GreenFinance/blob/main/R%20Script%20-%20Green%20Finance.R)
 
 ![Image](./assets/img/census.png)
 ### Accessing the Census API Using R: Geospatial Equity Analysis and Visualizations
