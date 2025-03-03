@@ -2,6 +2,16 @@
 
 # Presentations
 
+![Image](./assets/img/NuData.png)
+### Interview: The Promise of Big Data - Climate, Justice, and Governance in Big Data
+- **Link:** [Video Snippet](https://www.instagram.com/reel/DGVm4xqqBjI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) | [Full Article](https://theclimateasterisk.substack.com/p/the-promise-of-big-data-climate-justice?r=4k5ovi&utm_campaign=post&utm_medium=web&triedRedirect=true)
+- **Date:** February 2025
+- **Event:** Interview with Nu Data
+- **Host:** Nhi Corcoran
+- **Details:** 
+  - Invited to speak on the potential opportunities and risks presented by big data in the climate justice space 
+  - Quoted in article addressing the intersection of data justice and sustainability 
+
 ![Image](./assets/img/GISDay2024.png)
 ### Panel Moderator & Organizer: Taking GIS Beyond the Classroom 
 - **Date:** November 2024
