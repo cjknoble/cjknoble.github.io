@@ -4,7 +4,7 @@
 
 ![Image](./assets/img/NuData.png)
 ### Interview: The Promise of Big Data - Climate, Justice, and Governance in Big Data
-- **Link:** [Video Snippet](https://www.instagram.com/reel/DGVm4xqqBjI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) | [Full Article](https://theclimateasterisk.substack.com/p/the-promise-of-big-data-climate-justice?r=4k5ovi&utm_campaign=post&utm_medium=web&triedRedirect=true)
+- **Link:** [Video Snippet](https://www.instagram.com/reel/DGVm4xqqBjI/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) and [Full Article](https://theclimateasterisk.substack.com/p/the-promise-of-big-data-climate-justice?r=4k5ovi&utm_campaign=post&utm_medium=web&triedRedirect=true)
 - **Date:** February 2025
 - **Event:** Interview with Nu Data
 - **Host:** Nhi Corcoran
