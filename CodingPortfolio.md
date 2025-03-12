@@ -2,9 +2,6 @@
 
 # Coding Portfolio
 
-![Image](./assets/img/SDModel.gif)
-
-
 ![Image](./assets/img/Hackathon-ESGrader2.png)
 ### ESGrader - Building an ESG Assessment Tool for Renewable Energy Projects (Hackathon Project)
 - **Description:** This project is the culmination of a 2-day in-person Hackathon called "AI Agents for Faster Renewable Energy Projects", taking place in New York City. Our team of four focused on building a tool for processing Environmental, Social, and Governance (ESG) surveys, calculating ESG and Impact scores, and providing context-specific recommendations for improvement. The final product resulted in custom Python packages, a front-end wireframe, and runway for future ML development. 
