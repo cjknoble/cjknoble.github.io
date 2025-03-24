@@ -3,18 +3,18 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-_Could we detect the next Flint Water Crisis using Google Search and social media data? Does socially sensed big data actually represent community voices? What role do Data Justice and Critical GIS play in disaster resilience?_ <br>
+_Could we detect the next Flint Water Crisis using Google Search and social media data? Can socially sensed big data actually amplify community voices? What role do Data Justice and Critical GIS play in disaster resilience?_ <br>
 
 ## About Me <br> 
-As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
+As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies, remote sensing, and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
 <br>
 
 My research employing novel big data investigations and system-level simulations has been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
 <br> 
 
-With over 600 hours of GIS consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
+With over 800 hours of GIS and data science consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
 
-**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], QGIS [Advanced], Stella Architect [Advanced], Python [Intermediate], SQL [Intermediate], Salesforce [Intermediate] <br>
+**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], Python [Advanced], Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], SQL [Intermediate], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
 **Certifications**: Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)] <br>
 <br>
@@ -59,7 +59,7 @@ Università degli Studi di Torino, Italy <br>
 -	Improved emissions inventory resolution by over 10x, applying fishnet spatial aggregation techniques to enable precise environmental assessments
 -	Authored seven emissions inventory reports, detailing methodologies, results, and actionable recommendations for sustainability planning
 	
-**GIS Consultant, Independent Contractor [300+ Hours]  (_July 2022 - Present_)**
+**GIS & Data Science Consultant, Independent Contractor [400+ Hours]  (_July 2022 - Present_)**
 -	Evaluated social equity and environmental impacts of proposed projects by conducting advanced geospatial analyses using R and ArcGIS Pro, aligning with Justice40 regulations
 -	Developed high-quality deliverables including interactive dashboards, maps, and tutorials to effectively communicate actionable sustainability insights to stakeholders
 -	Contributed to proposals securing over $35 million in federal funding through impact assessments, engaging visualizations, and detailed reporting to ensure compliance with regulatory frameworks
