@@ -5,6 +5,8 @@
 
 _Could we detect the next Flint Water Crisis using Google Search and social media data? Can socially sensed big data actually amplify community voices? What role do Data Justice and Critical GIS play in disaster resilience?_ <br>
 
+### Interested in virtually attending my PhD Dissertation Defense on Friday, April 4 at 2 pm? Register [here](https://forms.gle/GcPWg7hvhH6MnHgu6)! 
+
 ## About Me <br> 
 As a Ph.D. candidate in Environmental Science and Management, my research harnesses geospatial technologies, remote sensing, and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
 <br>
