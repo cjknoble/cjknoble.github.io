@@ -3,8 +3,6 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-### Interested in virtually attending my PhD Dissertation Defense on Friday, April 4 at 2 pm? Register [here](https://forms.gle/GcPWg7hvhH6MnHgu6)! 
-
 _Could we detect the next Flint Water Crisis using Google Search and social media data? Can socially sensed big data actually amplify community voices? What role do Data Justice and Critical GIS play in disaster resilience?_ <br>
 
 ## About Me <br> 
@@ -14,7 +12,7 @@ As a Ph.D. candidate in Environmental Science and Management, my research harnes
 My research employing novel big data investigations and system-level simulations has been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
 <br> 
 
-With over 800 hours of GIS and data science consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the American and Italian Red Cross.
+With over 800 hours of GIS and data science consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the Environmental Data Governance Initiative (EDGI).
 
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], Python [Advanced], Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], SQL [Intermediate], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
