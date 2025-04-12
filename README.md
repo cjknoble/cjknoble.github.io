@@ -1,4 +1,4 @@
-# CJ, the EJ Guy
+# Charles 'CJ' Knoble, PhD
 ### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ) | [Medium](https://medium.com/@cjknoble)
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
@@ -6,7 +6,7 @@
 _Can internet search data inform environmental disaster response? How do we ensure big data is efficient, effective, and equitable? What role does environmental data justice play in disaster resilience?_ <br>
 
 ## About Me <br> 
-As a Ph.D. in Environmental Science and Management, my research harnesses geospatial technologies, remote sensing, and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
+As a Ph.D. in Environmental Science and Management specializing in Environmental Justice (EJ), my research harnesses geospatial technologies, remote sensing, and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
 <br>
 
 My research employing novel big data investigations and system-level simulations has been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
