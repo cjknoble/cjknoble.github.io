@@ -3,9 +3,9 @@
 # Coding Portfolio
 
 ![Image](./assets/img/SysDynamicsPolicyModel.png)
-### Simulating Policy Interventions' Impacts on Community Pb Exposure (Dissertation Project)
+### Simluation of Policy Impacts on Community Pb Exposure (Dissertation Project)
 - **Description:** This project created a simulative 'laboratory' of Newark, New Jersey, allowing the user to test the impact of policy interventions on Pb exposure and equity. This model was created using a natural-intelligence guided covariation mining approach, characterizing the interactions between community social, economic, environmental, and big data factors through regression fitting. Manuscript currently in review, model specifics available upon request. 
-- **Language:** R
+- **Tools:** R, iSee Systems Stella Architect
 - **Key Packages:** GreyModel, dplyr, stats, sf, gtrendsR
 - **Link:** [Relevant Scripts](https://github.com/cjknoble/NewarkDataMining/tree/main)
 
