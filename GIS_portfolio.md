@@ -5,10 +5,15 @@
 
 ## _Total Paid Hours_
 **Consultant for _Starcrest Consulting LLC_**: 400+ Hours <br>
-**Independent Contractor**: 300+ Hours <br>
-**University Lab Instructor and Lecturer**: 170 Hours
+**Independent Contractor**: 400+ Hours <br>
+**University Lecturer and Lab Instructor**: 220 Hours
 
 ## _Projects_
+![Workshop](./assets/img/Detroit MYLE.jpg)
+### Journalistic Mapping for Environmental Justice Workshops 
+- **Description:** This workshop series, titled Mapping Your Local Environment (MYLE), aimed to empower Detroit and Atlanta journalists to integrate map making and geospatial data into their environmental reporting. Each workshop was 2 hours, including a lecture on geography and data justice principles, and a lab introducing local data acquisition and visualization approaches through Felt.   
+- **Skills and Deliverables:** Felt, GIS and Geospatial Data Basics, Interactive Data Visualization 
+
 ![Dashboard](./assets/img/Dashboard GIS 2.png)
 ### Interactive Dashboard of EV Chargers Across California
 - **Description:** This dashboard is an example of data acquisition, cleaning, and specialization resulting in an interactive dashboard. CSV data containing information on EV chargers in California were cleaned, plotted, and overlayed with state datasets.
@@ -27,7 +32,7 @@
 
 ![Habitat1](./assets/img/Habitat Spatial Analysis - Data Provided.jpg)
 ### Habitat Suitability Analysis
-- **Description:** I was tasked with identifying the areas in the Sturgis, South Dakota area that fit the habitat criteria outlined by the client. I was provided with an elevation raster, vegetation shapefile, geology shapefile, and roads shapefile. The areas of interest were those that were between 1200 and 1600 meters in elevation, high levels of limestone, within 200 meters of a road, and with high vegetation density. An overlay was conducted to rank areas by the extent to which they met the desired criteria.
+- **Description:** I was tasked with identifying the areas in the Sturgis, South Dakota area that fit the habitat criteria outlined by the client. I was provided with an elevation raster, vegetation shapefile, geology shapefile, and roads shapefile. The areas of interest were those that were between 1200 and 1600 meters in elevation, had high levels of limestone, were within 200 meters of a road, and had high vegetation density. An overlay was conducted to rank areas by the extent to which they met the desired criteria.
 - **Skills and Deliverables:** Site Assessment, Geospatial Analysis, Overlay
 
 ![Income](./assets/img/Online Map 5.png)
