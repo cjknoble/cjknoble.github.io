@@ -2,6 +2,13 @@
 
 # Coding Portfolio
 
+![Image](./assets/img/SysDynamicsPolicyModel.png)
+### Simulating Policy Interventions' Impacts on Community Pb Exposure (Dissertation Project)
+- **Description:** This project created a simulative 'laboratory' of Newark, New Jersey, allowing the user to test the impact of policy interventions on Pb exposure and equity. This model was created using a natural-intelligence guided covariation mining approach, characterizing the interactions between community social, economic, environmental, and big data factors through regression fitting. Manuscript currently in review, model specifics available upon request. 
+- **Language:** R
+- **Key Packages:** GreyModel, dplyr, stats, sf, gtrendsR
+- **Link:** [Relevant Scripts](https://github.com/cjknoble/NewarkDataMining/tree/main)
+
 ![Image](./assets/img/Hackathon-ESGrader2.png)
 ### ESGrader - Building an ESG Assessment Tool for Renewable Energy Projects (Hackathon Project)
 - **Description:** This project is the culmination of a 2-day in-person Hackathon called "AI Agents for Faster Renewable Energy Projects", taking place in New York City. Our team of four focused on building a tool for processing Environmental, Social, and Governance (ESG) surveys, calculating ESG and Impact scores, and providing context-specific recommendations for improvement. The final product resulted in custom Python packages, a front-end wireframe, and runway for future ML development. 
@@ -11,7 +18,7 @@
 
 ![Image](./assets/img/Graph - Green Bond.png)
 ### Assessing Green Finance Interest and Information Accessibility 
-- **Description:** This is an ongoing project aiming to identify the popularity and accessibility of information around green finance. This script generates search frequency for topics such as green bonds and ESG and plots the data temporally and geographically. 
+- **Description:** This is project aimed to identify the popularity and accessibility of information around green finance. This script generates search frequency for topics such as green bonds and ESG and plots the data temporally and geographically. 
 - **Language:** R
 - **Key Packages:** gtrendsR, tidycensus, tidyr, ggplot2, dplyr
 - **Link:** [R Project](https://github.com/cjknoble/Paper-GreenFinance/blob/main/R%20Script%20-%20Green%20Finance.R)
