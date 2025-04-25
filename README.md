@@ -46,7 +46,7 @@ Università degli Studi di Torino, Italy <br>
 
 **Manuscripts Under Review** <br>
 1. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Data Justice and Fast-Food Mobile Apps: Analyzing Targeted Marketing and Health Implications in Marginalized Communities. _Social Science and Medicine._
-2. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Don’t Let Lead Lead on Environmental Justice: Developing a Dynamic System Level Injustice Detection Tool in Newark NJ. _Science of the Total Environment._
+2. **Knoble, C.**, Fabolude, G., Vu, A., Yu, D. (n.d.). Don’t Let Lead Lead on Environmental Justice: A Simulative System Dynamics Analysis of Lead Exposure in the Big Data Era. _Science of the Total Environment._
 3. Amenyo, A., **Knoble, C.**, Lal, P. (n.d.). Green Finance in the United States: Distribution of Accessibility and Interest and Implications for Environmental Justice. _Journal of Climate Finance._
 4. Ahmed, A., **Knoble, C.**, Schuler, M. (n.d.). Effects of Multiple Stressors on Freshwater Quality and Nutrient Dynamics: A Review. _Environmental Pollution_.
 5. Yu, D., **Knoble, C.**, Fabolude G., Vu. A. (n.d.). Understanding Lead Exposure Through Data and Domain Expertise: Insights from New Jersey with a Geographically Weighted Regression Analysis. _Environmental Science and Pollution Research._
