@@ -30,6 +30,11 @@
 - **Description:** A nonprofit organization sought to introduce GIS to their 20-person data analysis team, most of whom had limited GIS experience. Over two separate 1-hour sessions, I provided a general introduction to GIS and a tutorial on conducting spatial analyses using PowerPoint, PollEverywhere, and ArcGIS Pro, tailored to the organization's specific workflows and goals. By the end, the team was proficient in cleaning datasets, conducting Joins, and utilizing geoprocessing tools for cartographic overlays.
 - **Skills and Deliverables:** ArcGIS Pro, Training, Spatial Analysis
 
+![Smoke](./assets/img/Fire Affected Areas within Paradise CA - ArcGIS.png)
+### Active Wildfire Investigation
+- **Description:** In this educational assignment, I estimated the distribution of a wildfire in Paradise, CA. I acquired Landsat 8 satellite imagery and applied a false-color composite to identify, classify, and quantify the extent of the active fire.  
+- **Skills and Deliverables:** ArcGIS Pro, Supervised Classification
+
 ![Habitat1](./assets/img/Habitat Spatial Analysis - Data Provided.jpg)
 ### Habitat Suitability Analysis
 - **Description:** I was tasked with identifying the areas in the Sturgis, South Dakota area that fit the habitat criteria outlined by the client. I was provided with an elevation raster, vegetation shapefile, geology shapefile, and roads shapefile. The areas of interest were those that were between 1200 and 1600 meters in elevation, had high levels of limestone, were within 200 meters of a road, and had high vegetation density. An overlay was conducted to rank areas by the extent to which they met the desired criteria.
