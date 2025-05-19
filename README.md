@@ -55,28 +55,50 @@ Università degli Studi di Torino, Italy <br>
 8. Cade, R., Yu, D., **Knoble, C.**, Whyte, K., Lal, P., Borgerson, C. (n.d.). Environmental Justice in Indigenous Communities: The Disproportionate Effects of Environmental Contamination. _Sustainable Futures._<br>
 <br>
 
-## Leadership Experience 
-**GIS Analyst, Starcrest LLC [400+ Hours] (_July 2022 - Present_)**
--	Reduced analysis time by 50% and cut project costs by streamlining geospatial workflows through automation using Python and ESRI ModelBuilder
--	Improved emissions inventory resolution by over 10x, applying fishnet spatial aggregation techniques to enable precise environmental assessments
--	Authored seven emissions inventory reports, detailing methodologies, results, and actionable recommendations for sustainability planning
+## Experience 
+
+**Geospatial Data Science Contractor, Recidiviz (_April 2025 - Present_)**
+-	Lead the acquisition, cleaning, and integration of national- and state-level datasets on mobility, housing, and employment to contextualize the reentry experiences of formerly incarcerated individuals
+-	Develop reproducible, open-source Python pipelines for geospatial and tabular data ingestion, transformation, and visualization, enabling scalable workflows across U.S. states
+-	Build foundational GIS infrastructure for an organization previously without in-house geospatial capacity, including automated data pipelines, spatial databases, and mapping tools
+-	Design and implement interactive geospatial visualizations to support evidence-based advocacy, enabling Recidiviz’s stakeholders to identify structural barriers to reentry and communicate findings to policymakers
+-	Collaborate with cross-functional teams to prepare state-specific data packets, incorporating external datasets with internal case-level data to deliver actionable, contextual insights
+-	Structure and categorize data processing codebases by geography, topic, and source to improve internal usability and support future replication across program years
+
+**GIS Contractor, Rooted Futures Lab (_January 2025 - Present_)**
+-	Collaborated on the design and delivery of the MYLE Project, an initiative that trains advocates, community organizers, and local journalists in critical GIS and data storytelling skills
+-	Facilitated and co-developed place-based, 2-hour workshops in Atlanta and Detroit, providing live GIS training and fostering civic dialogue among journalists and community organizers
+-	Contributed to a pilot program with plans for expansion into additional cities, emphasizing scalable and adaptable curriculum design
+-	Participated in organization-wide strategic planning for Rooted Futures Lab, contributing to the defining of core values, development of long-term goals, and visioning of the nonprofit’s impact over the next three years
+
+**Senior GIS Analyst, Starcrest LLC [500+ Hours] (_July 2022 - Present_)**
+-	Lead all geospatial efforts within the firm, managing end-to-end GIS workflows in support of environmental consulting projects focused on marine vessel emissions, AFV infrastructure, and air quality
+-	Build scalable geospatial data pipelines for port emissions inventories using Python and Esri ModelBuilder, improving the resolution and accuracy of environmental assessments
+-	Author technical reports with clearly documented methods, geospatial analysis, data visualizations, and interpretive narratives highlighting environmental justice implications
+-	Design maps, charts, and spatial statistics for inclusion in regulatory and planning documents, enabling data-driven decision-making for port authorities and policy stakeholders
+-	Collaborate with database engineers to ensure seamless data integration across geospatial and SQL-based systems, improving data integrity and performance
 	
-**GIS & Data Science Consultant, Independent Contractor [400+ Hours]  (_July 2022 - Present_)**
--	Evaluated social equity and environmental impacts of proposed projects by conducting advanced geospatial analyses using R and ArcGIS Pro, aligning with Justice40 regulations
--	Developed high-quality deliverables including interactive dashboards, maps, and tutorials to effectively communicate actionable sustainability insights to stakeholders
--	Contributed to proposals securing over $35 million in federal funding through impact assessments, engaging visualizations, and detailed reporting to ensure compliance with regulatory frameworks
+**GIS & Data Science Consultant, Independent Contractor [500+ Hours]  (_November 2020 - May 2025_)**
+-	Provide end-to-end consulting services for over 10 clients across sustainability, urban planning, transportation, and real estate sectors, with a focus on environmental justice and geospatial data strategy
+-	Lead project scoping, client engagement, and technical execution from initial needs assessment to final deliverables, translating complex client goals into actionable data science and GIS solutions
+-	Build custom geospatial data pipelines and infrastructure using Python, R, and Esri tools, including automated ModelBuilder workflows and reproducible spatial analysis scripts
+-	Design and deploy interactive visualizations (dashboards, web maps, custom tools) to support stakeholder engagement and decision-making on topics such as EV infrastructure, land use suitability, and social equity
+-	Support clients with statistical analysis workflows, machine learning implementation, and data optimization strategies, enhancing their internal analytics capabilities
+-	Contributed to proposals securing over $35M in federal funding by producing compelling visualizations, data-backed narratives, and impact metrics aligned with policy frameworks
 
-**PhD Candidate & Research Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
--	Published 8 peer-reviewed studies, including three as first author, advancing research in environmental justice, sustainability, and public health
--	Designed R scripts to automate analysis of temporal covariation patterns across datasets, improving research accuracy and scalability 
+**PhD Candidate & Research Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - May 2025_)**
+-	Published 10 peer-reviewed studies, including three as first author, advancing research in environmental justice, big data, and remote sensing
+-	Developed R and Python scripts to automate analysis of temporal covariation patterns across datasets, improving research accuracy and scalability for system dynamics simulations
 -	Led doctoral researchers in developing simulative models, establishing best practices for data collection and analysis in compliance with federal grant requirements
+-	Synthesized findings from 50+ peer-reviewed publications (2015 onwards) in an in-depth literature review, identifying emerging trends and research gaps in environmental justice
+-	Developed custom R scripts to collect, standardize, and aggregate over 20 environmental, social, health, economic, big data, and remote sensing datasets for quantitative and Machine Learning analysis
 
-**Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - Present_)**
+**Adjunct Professor & Graduate Assistant; Dept. of Earth and Environmental Science, Montclair State University (_August 2021 - May 2025_)**
 _Adjunct Professor: Introduction to GIS and Remote Sensing (EAES 210/506)_
 _Graduate Assistant: Introduction to GIS and Remote Sensing (EAES 210/506), Advanced GIS and Remote Sensing (EAES 310/510), Planet Earth (EAES 101), Research Methods in Sustainability Science (EAES 390)_
--	Increased GIS program engagement by 200%, organizing professional panel sessions, company tabling events, and software open-houses
 -	Facilitated lab activities for courses in Statistical Research Methods, Introductory and Advanced GIS, and Planet Earth, fostering practical application of geographic principles and statistical analysis tools
 -	Developed novel curricula and lab exercises for an Introductory GIS course, incorporating tools such as R, ArcGIS Pro, QGIS, and Google Earth Pro
+-	Increased GIS program engagement by 200%, organizing professional panel sessions, company tabling events, and software open-houses
 -	Awarded "Outstanding Teaching Assistant" in the first year and promoted to adjunct professor position
 
 **Project Manager & Clean Cities Coordinator; Center for Sustainable Energy (_April 2020 - August 2021_)**
