@@ -6,13 +6,11 @@
 _Can internet search data inform environmental disaster response? How do we ensure big data is efficient, effective, and equitable? What role does environmental data justice play in disaster resilience?_ <br>
 
 ## About Me <br> 
-As a Ph.D. in Environmental Science and Management specializing in Environmental Justice (EJ), my research harnesses geospatial technologies, remote sensing, and big data analytics to answer complex questions like these. I aim to tackle wicked problems in environmental and social contexts, with a critical focus on their impacts on environmental justice and social equity. 
+
+Hi, I'm CJ, the EJ Guy. I’m a geospatial data scientist with a PhD in Environmental Science and Management, specializing in the intersection of environmental justice (EJ), spatial analysis, and technology. 
 <br>
 
-My research employing novel big data investigations and system-level simulations has been featured in high-impact journals like _Remote Sensing_ and _Sustainable Development_. In my role as an Adjunct Professor and award-winning Teaching Assistant, I also develop and teach GIS and remote sensing courses, equipping students with the tools to address real-world issues.
-<br> 
-
-With over 800 hours of GIS and data science consultancy experience, I’ve contributed to port emissions inventory reports, federal grant proposals, and social equity impact assessments, helping diverse clients measure and improve their social and environmental impacts. I’ve further shown leadership in sustainability as a U.S. Department of Energy Clean Cities Coordinator and through volunteer work with the Environmental Data Governance Initiative (EDGI).
+My work integrates open data, GIS, and statistical modeling to support equity-centered decision-making across sectors. I’ve led geospatial and data science projects for nonprofits, consulting firms, and research institutions—building scalable data pipelines, creating interactive visualizations, and conducting impact assessments that inform sustainability, mobility, and reintegration policy. I bring a systems-oriented approach to spatial data, grounded in community needs and committed to advancing environmental justice through technical rigor and collaborative design.
 
 **Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], Python [Advanced], Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], SQL [Intermediate], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
