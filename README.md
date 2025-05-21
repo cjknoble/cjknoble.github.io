@@ -3,7 +3,7 @@
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
-_Can internet search data inform environmental disaster response? How do we ensure big data is efficient, effective, and equitable? What role does environmental data justice play in disaster resilience?_ <br>
+_Can internet search data inform our response to environmental injustice? How do we ensure big data is efficient, effective, and equitable? What role does environmental data justice play in disaster resilience?_ <br>
 
 ## About Me <br> 
 
