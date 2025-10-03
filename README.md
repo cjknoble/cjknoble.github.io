@@ -7,12 +7,15 @@ _Can internet search data inform our response to environmental injustice? How do
 
 ## About Me <br> 
 
-Hi, I'm CJ, the EJ Guy. I’m a geospatial data scientist with a PhD in Environmental Science and Management, specializing in the intersection of environmental justice (EJ), spatial analysis, and technology. 
+Hi, I'm CJ, the EJ Guy. I’m a geospatial data scientist with a PhD in Environmental Science and Management, specializing in the intersection of environmental justice (EJ), spatial analysis, and data justice. 
 <br>
 
-My work integrates open data, GIS, and statistical modeling to support equity-centered decision-making across sectors. I’ve led geospatial and data science projects for nonprofits, consulting firms, and research institutions—building scalable data pipelines, creating interactive visualizations, and conducting impact assessments that inform sustainability, mobility, and reintegration policy. I bring a systems-oriented approach to spatial data, grounded in community needs and committed to advancing environmental justice through technical rigor and collaborative design.
+My work integrates open data, GIS, and statistical modeling to support equity-centered decision-making across sectors. I’ve led scientific research projects and data-driven initiatives for nonprofits, consulting firms, and research institutions. 
+<br>
 
-**Technical Skills**: ArcGIS Pro [Advanced], R [Advanced], Python [Advanced], Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], SQL [Intermediate], Salesforce [Intermediate] <br>
+I excel in building scalable data pipelines, creating engaging visualizations, and conducting scientifically-grounded impact assessments. I bring a systems-oriented approach to spatial data, grounded in community needs and committed to advancing environmental justice through technical rigor and collaborative design.
+
+**Technical Skills**: ArcGIS Pro [Advanced], Python [Advanced],  SQL [Advanced], R [Advanced],  Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], Google Big Query [Intermediate], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
 **Certifications**: Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)] <br>
 <br>
