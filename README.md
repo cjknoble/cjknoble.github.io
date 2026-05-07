@@ -1,5 +1,5 @@
 # Charles 'CJ' Knoble, PhD
-### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ) | [Medium](https://medium.com/@cjknoble)
+### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ) | [Podcast](https://www.youtube.com/@Nu_Data)
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
