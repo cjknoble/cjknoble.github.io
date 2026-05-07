@@ -9,7 +9,8 @@
 - **Host:** Nhi Corcoran
 - **Details:** 
   - Invited to speak on the opportunities and risks presented by big data in the climate justice space for video series
-  - Quoted in article addressing the intersection of data justice and sustainability 
+  - Quoted in article addressing the intersection of data justice and sustainability
+  - Led to consist conversations captured through podcast [Panic with a Purpose](https://www.youtube.com/@Nu_Data)
 
 ![Image](./assets/img/GISDay2024.png)
 ### Panel Moderator & Organizer: Taking GIS Beyond the Classroom 
