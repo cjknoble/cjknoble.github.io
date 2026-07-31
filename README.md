@@ -1,5 +1,5 @@
 # Charles 'CJ' Knoble, PhD
-### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ) | [Podcast](https://www.youtube.com/@Nu_Data)
+### [LinkedIn](https://www.linkedin.com/in/charles-knoble/) | cjknoble@gmail.com | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVEDMqW8YGlCSv49913C_4Xrmipu7zbDAU3IYghzbk-8Zdgl9MSaDFuTkRHyeghMCcJ54ts5jVghwtZJJrIR_QV&user=lswq0ugAAAAJ) | [Podcast](https://www.youtube.com/@NuAtlas)
 
 [Presentations](./presentations.html) | [GIS Portfolio](./GIS_portfolio.html) | [Coding Portfolio](./CodingPortfolio.html) | [Testimonials](./testimonials.html)
 
@@ -15,7 +15,7 @@ My work integrates open data, GIS, and statistical modeling to support equity-ce
 
 I excel in building scalable data pipelines, creating engaging visualizations, and conducting scientifically-grounded impact assessments. I bring a systems-oriented approach to spatial data, grounded in community needs and committed to advancing environmental justice through technical rigor and collaborative design.
 
-**Technical Skills**: ArcGIS Pro [Advanced], Python [Advanced],  SQL [Advanced], R [Advanced],  Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], Google Big Query [Intermediate], Salesforce [Intermediate] <br>
+**Technical Skills**: ArcGIS Pro [Advanced], Python [Advanced],  SQL [Advanced], R [Advanced],  Machine Learning [Advanced], QGIS [Advanced], Stella Architect [Advanced], Google Big Query [Advanced], Salesforce [Intermediate] <br>
 **Research Interests**: Environmental Justice (EJ), Simultative Modeling, Data Justice, Big Data, Environmental Policy, Urban Sustainability, Systems Thinking, Critical GIS <br>
 **Certifications**: Remote Pilot of Small Unmanned Aircraft Systems [FAA Part 107], GIS Specialization [[UC Davis: Coursera](https://www.coursera.org/account/accomplishments/specialization/LS9L2KWQEVAP)], Certificate of Competency in SQL [[LearnSQL.com](https://learnsql.com/files/course-certificate/MiBjZcLZuRqsEViTpEBbynjgiWnZGQcjQoWRFPPo)] <br>
 <br>
@@ -173,4 +173,4 @@ Seattle, WA
 
 
 
-_For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles, or download my [Professional Resume](./assets/01.03.2026 Charles Knoble Resume.pdf) and [Academic CV](./assets/Knoble - CV.pdf)._
+_For more information, please visit my [LinkedIn](https://www.linkedin.com/in/charles-knoble/) and [ORCID](https://orcid.org/0000-0002-6363-3580) profiles.
